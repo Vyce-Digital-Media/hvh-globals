@@ -64,7 +64,7 @@ const About = () => {
               </h3>
 
               <p className="text-primary/60 text-xl md:text-2xl font-medium leading-relaxed max-w-xl">
-                Leading the way in global exports, we specialize in high-end hospitality textiles and industrial-grade electrical solutions. Our products have powered prestigious global landmarks including the <span className="text-primary font-bold">Ram Mandir</span>, the <span className="text-primary font-bold">Statue of Unity</span>, and the <span className="text-primary font-bold">Parliament of India</span>.
+                Leading the way in global exports, we specialize in high-end hospitality textiles and industrial-grade electrical solutions.
               </p>
             </motion.div>
 

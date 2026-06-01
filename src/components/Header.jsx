@@ -51,6 +51,7 @@ const Header = () => {
   }, []);
 
   const navLinks = [
+    { name: 'TRADE FAIR', href: '/trade-fair' },
     { name: 'ABOUT US', href: '/about' },
     {
       name: 'PRODUCTS',

@@ -3,16 +3,9 @@ import { FileBadge, CheckCircle, ShieldCheck } from 'lucide-react';
 
 const AccreditationPage = () => {
   const certifications = [
-    { name: "ISO 9001:2015", type: "Quality Management", desc: "International standard for quality management systems, ensuring consistent product quality and customer satisfaction." },
-    { name: "ISO 14001:2015", type: "Environmental Management", desc: "Certification for effective environmental management systems, reflecting our commitment to a carbon-neutral future." },
-    { name: "ISO 45001:2018", type: "Occupational Health & Safety", desc: "International standard for occupational health and safety, protecting the well-being of our global workforce." },
-    { name: "OEKO-TEX Standard 100", type: "Textile Safety", desc: "One of the world's best-known labels for textiles tested for harmful substances, ensuring safety for our premium bedding and bath range." },
-    { name: "MADE IN GREEN by OEKO-TEX", type: "Sustainable Textiles", desc: "A traceable product label for textiles that have been manufactured in environmentally friendly facilities." },
-    { name: "REACH Compliance", type: "Chemical Safety", desc: "European Union regulation for the protection of human health and the environment from the risks posed by chemicals." },
-    { name: "CE Marking", type: "European Compliance", desc: "Indicates that products meet EU safety, health, and environmental protection requirements." },
-    { name: "UL Listed", type: "Global Safety Standard", desc: "Underwriters Laboratories certification, ensuring rigorous safety and performance standards for electrical components." },
-    { name: "CPRI Certified", type: "Electrical Testing", desc: "Central Power Research Institute certification for performance and reliability of power cables and switchgear." },
-    { name: "RDSO Approved", type: "Railway Standards", desc: "Approved by the Research Designs and Standards Organisation for critical railway signalling and power infrastructure." }
+    { name: "FIEO RCMC", file: "FIEO RCMC", desc: "Federation of Indian Export Organisations Registration" },
+    { name: "IEC Certificate", file: "IEC certificate", desc: "Importer-Exporter Code Certification" },
+    { name: "RCMC EEPC", file: "RCMC EEPC CERTIFICATE", desc: "Engineering Export Promotion Council Registration" }
   ];
 
   return (
@@ -32,27 +25,30 @@ const AccreditationPage = () => {
         </div>
 
         {/* Certificates Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto">
           {certifications.map((cert, index) => (
-            <div 
+            <a 
               key={index} 
-              className="bg-white p-6 md:p-8 rounded-[2rem] md:rounded-3xl border border-gray-200 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 flex flex-col md:flex-row items-center md:items-start gap-4 md:gap-6 text-center md:text-left"
+              href={`/certi/${cert.file}.pdf`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group relative flex flex-col items-center bg-white p-4 rounded-3xl border border-gray-200 shadow-sm hover:shadow-2xl hover:-translate-y-2 transition-all duration-300"
             >
-              <div className="w-14 h-14 md:w-16 md:h-16 rounded-2xl bg-green-50 flex items-center justify-center text-primary shrink-0 border border-green-100">
-                <ShieldCheck size={28} className="md:hidden" />
-                <ShieldCheck size={32} className="hidden md:block" />
-              </div>
-              <div className="flex-1 w-full">
-                <div className="flex flex-col md:flex-row items-center justify-between mb-3 md:mb-2 gap-2">
-                   <h3 className="text-lg md:text-xl font-black text-gray-900 uppercase tracking-tight">{cert.name}</h3>
-                  <CheckCircle size={20} className="text-green-500" />
+              <div className="w-full aspect-[3/4] rounded-2xl overflow-hidden bg-gray-100 border border-gray-200 mb-6 relative">
+                <img 
+                  src={`/certi/${cert.file}.png`} 
+                  alt={cert.name}
+                  className="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-700"
+                />
+                <div className="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300 flex items-center justify-center">
+                  <div className="opacity-0 group-hover:opacity-100 bg-white text-primary px-6 py-3 rounded-full font-black shadow-xl transform translate-y-4 group-hover:translate-y-0 transition-all duration-300 flex items-center gap-2 uppercase tracking-wide">
+                    <FileBadge size={18} /> View PDF
+                  </div>
                 </div>
-                <span className="inline-block px-3 py-1 bg-gray-100 text-gray-700 font-bold text-[10px] md:text-xs uppercase tracking-wider rounded-lg mb-4 md:mb-3">
-                  {cert.type}
-                </span>
-                <p className="text-gray-600 text-sm md:text-base leading-relaxed font-medium">{cert.desc}</p>
               </div>
-            </div>
+              <h3 className="text-xl font-black text-gray-900 uppercase tracking-tight text-center mb-2">{cert.name}</h3>
+              <p className="text-gray-500 font-medium text-center text-sm">{cert.desc}</p>
+            </a>
           ))}
         </div>
       </div>

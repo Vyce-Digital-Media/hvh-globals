@@ -13,6 +13,7 @@ import ProductsPage from './pages/ProductsPage'
 import ProductDetailPage from './pages/ProductDetailPage'
 import ContactPage from './pages/ContactPage'
 import AccreditationPage from './pages/AccreditationPage'
+import TradeFairPage from './pages/TradeFairPage'
 
 const PageWrapper = ({ children }) => {
   return (
@@ -40,6 +41,7 @@ const AnimatedRoutes = () => {
         <Route path="/product/:id" element={<PageWrapper><ProductDetailPage /></PageWrapper>} />
         <Route path="/contact" element={<PageWrapper><ContactPage /></PageWrapper>} />
         <Route path="/accreditation" element={<PageWrapper><AccreditationPage /></PageWrapper>} />
+        <Route path="/trade-fair" element={<PageWrapper><TradeFairPage /></PageWrapper>} />
       </Routes>
     </AnimatePresence>
   );

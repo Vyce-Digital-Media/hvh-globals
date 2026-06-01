@@ -107,7 +107,7 @@ const ProductsPage = () => {
   };
 
   const electricalSubCategories = [
-    { name: 'Wire and Cable', icon: Zap, desc: 'Premium FR/FRLS house wires and heavy-duty industrial power cables.' },
+    { name: 'Wire and Cable', icon: Zap, desc: 'Premium FR/FRLS house wires and heavy-duty industrial power cables.', image: '/ELECTRICAL/1. wire and cables/2. multicore flexible/Multicore-Cable.jpg' },
     { name: 'Switch and Accessories', icon: Layers, desc: 'Elite modular switches and smart touch panels for luxury interiors.' },
     { name: 'Switchgears', icon: Shield, desc: 'Advanced circuit protection (MCB/RCCB) for global infrastructure projects.' },
     { name: 'Lighting', icon: Sun, desc: 'Energy-efficient architectural, industrial, and outdoor LED solutions.' },
@@ -215,7 +215,7 @@ const ProductsPage = () => {
         {categoryFilter && !subFilter && (
           <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-8 max-w-7xl mx-auto mb-16">
             {activeSubCategories.map((sc) => {
-              const bgImg = productsData.find(p =>
+              const bgImg = sc.image || productsData.find(p =>
                 p.subCategory === sc.name ||
                 (sc.name === 'Lighting' && p.subCategory === 'Lighting')
               )?.image;

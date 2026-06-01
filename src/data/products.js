@@ -2628,370 +2628,6 @@ const productsData = [
     ]
   },
   {
-    "id": "prod-home-1",
-    "category": "home-decor",
-    "subCategory": "Bedding",
-    "name": "Bedding - Variant 1",
-    "desc": "BEDDING\nBedding is a premium range of high-end bed linen and sleep products designed to deliver superior comfort, elegance, and durability. Crafted from finest quality fabrics such as Egyptian cotton, satin, linen, bamboo fibre, silk blends, and high-thread-count cotton, luxury bedding enhances the overall sleeping experience while adding sophistication to interior spaces.",
-    "specs": "GSM & THREAD COUNTS: Available in Various GSM & Thread Counts (150 – 1000 Thread Count)",
-    "features": [
-      "Soft & Comfortable Fabric (Cotton / Satin)",
-      "Breathable & Skin-Friendly",
-      "Durable Stitching & Hotel-grade finish",
-      "Elegant Designs & Patterns",
-      "Easy Wash & Maintenance, Colour Fastness"
-    ],
-    "image": "/HOME/1.BEDDING/6cc3f856846f4ca5f4534b07e4fc7e2a.jpg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Customization Available",
-      "Applications: Residential Use, Hotels & Resorts, Hospitality Projects, Hospitals & Healthcare, Interior & Luxury Projects, Guest Houses & Serviced Apartments",
-      "Common Products: Bed Sheets, Comforters, Duvets, Quilts, Blankets, Bed Runners"
-    ]
-  },
-  {
-    "id": "prod-home-2",
-    "category": "home-decor",
-    "subCategory": "Bedding",
-    "name": "Bedding - Variant 2",
-    "desc": "BEDDING\nBedding is a premium range of high-end bed linen and sleep products designed to deliver superior comfort, elegance, and durability. Crafted from finest quality fabrics such as Egyptian cotton, satin, linen, bamboo fibre, silk blends, and high-thread-count cotton, luxury bedding enhances the overall sleeping experience while adding sophistication to interior spaces.",
-    "specs": "GSM & THREAD COUNTS: Available in Various GSM & Thread Counts (150 – 1000 Thread Count)",
-    "features": [
-      "Soft & Comfortable Fabric (Cotton / Satin)",
-      "Breathable & Skin-Friendly",
-      "Durable Stitching & Hotel-grade finish",
-      "Elegant Designs & Patterns",
-      "Easy Wash & Maintenance, Colour Fastness"
-    ],
-    "image": "/HOME/1.BEDDING/Hotel-Curtains-Dubai-1.jpg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Customization Available",
-      "Applications: Residential Use, Hotels & Resorts, Hospitality Projects, Hospitals & Healthcare, Interior & Luxury Projects, Guest Houses & Serviced Apartments",
-      "Common Products: Bed Sheets, Comforters, Duvets, Quilts, Blankets, Bed Runners"
-    ]
-  },
-  {
-    "id": "prod-home-3",
-    "category": "home-decor",
-    "subCategory": "Bedding",
-    "name": "Bedding - Variant 3",
-    "desc": "BEDDING\nBedding is a premium range of high-end bed linen and sleep products designed to deliver superior comfort, elegance, and durability. Crafted from finest quality fabrics such as Egyptian cotton, satin, linen, bamboo fibre, silk blends, and high-thread-count cotton, luxury bedding enhances the overall sleeping experience while adding sophistication to interior spaces.",
-    "specs": "GSM & THREAD COUNTS: Available in Various GSM & Thread Counts (150 – 1000 Thread Count)",
-    "features": [
-      "Soft & Comfortable Fabric (Cotton / Satin)",
-      "Breathable & Skin-Friendly",
-      "Durable Stitching & Hotel-grade finish",
-      "Elegant Designs & Patterns",
-      "Easy Wash & Maintenance, Colour Fastness"
-    ],
-    "image": "/HOME/1.BEDDING/WhatsApp Image 2026-04-21 at 3.14.36 PM.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Customization Available",
-      "Applications: Residential Use, Hotels & Resorts, Hospitality Projects, Hospitals & Healthcare, Interior & Luxury Projects, Guest Houses & Serviced Apartments",
-      "Common Products: Bed Sheets, Comforters, Duvets, Quilts, Blankets, Bed Runners"
-    ]
-  },
-  {
-    "id": "prod-home-4",
-    "category": "home-decor",
-    "subCategory": "Bedding",
-    "name": "Bedding - Variant 4",
-    "desc": "BEDDING\nBedding is a premium range of high-end bed linen and sleep products designed to deliver superior comfort, elegance, and durability. Crafted from finest quality fabrics such as Egyptian cotton, satin, linen, bamboo fibre, silk blends, and high-thread-count cotton, luxury bedding enhances the overall sleeping experience while adding sophistication to interior spaces.",
-    "specs": "GSM & THREAD COUNTS: Available in Various GSM & Thread Counts (150 – 1000 Thread Count)",
-    "features": [
-      "Soft & Comfortable Fabric (Cotton / Satin)",
-      "Breathable & Skin-Friendly",
-      "Durable Stitching & Hotel-grade finish",
-      "Elegant Designs & Patterns",
-      "Easy Wash & Maintenance, Colour Fastness"
-    ],
-    "image": "/HOME/1.BEDDING/WhatsApp Image 2026-04-21 at 3.14.37 PM.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Customization Available",
-      "Applications: Residential Use, Hotels & Resorts, Hospitality Projects, Hospitals & Healthcare, Interior & Luxury Projects, Guest Houses & Serviced Apartments",
-      "Common Products: Bed Sheets, Comforters, Duvets, Quilts, Blankets, Bed Runners"
-    ]
-  },
-  {
-    "id": "prod-home-5",
-    "category": "home-decor",
-    "subCategory": "Bedding",
-    "name": "Bedding - Variant 5",
-    "desc": "BEDDING\nBedding is a premium range of high-end bed linen and sleep products designed to deliver superior comfort, elegance, and durability. Crafted from finest quality fabrics such as Egyptian cotton, satin, linen, bamboo fibre, silk blends, and high-thread-count cotton, luxury bedding enhances the overall sleeping experience while adding sophistication to interior spaces.",
-    "specs": "GSM & THREAD COUNTS: Available in Various GSM & Thread Counts (150 – 1000 Thread Count)",
-    "features": [
-      "Soft & Comfortable Fabric (Cotton / Satin)",
-      "Breathable & Skin-Friendly",
-      "Durable Stitching & Hotel-grade finish",
-      "Elegant Designs & Patterns",
-      "Easy Wash & Maintenance, Colour Fastness"
-    ],
-    "image": "/HOME/1.BEDDING/WhatsApp Image 2026-04-21 at 3.16.07 PM.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Customization Available",
-      "Applications: Residential Use, Hotels & Resorts, Hospitality Projects, Hospitals & Healthcare, Interior & Luxury Projects, Guest Houses & Serviced Apartments",
-      "Common Products: Bed Sheets, Comforters, Duvets, Quilts, Blankets, Bed Runners"
-    ]
-  },
-  {
-    "id": "prod-home-6",
-    "category": "home-decor",
-    "subCategory": "Bedding",
-    "name": "Bedding - Variant 6",
-    "desc": "BEDDING\nBedding is a premium range of high-end bed linen and sleep products designed to deliver superior comfort, elegance, and durability. Crafted from finest quality fabrics such as Egyptian cotton, satin, linen, bamboo fibre, silk blends, and high-thread-count cotton, luxury bedding enhances the overall sleeping experience while adding sophistication to interior spaces.",
-    "specs": "GSM & THREAD COUNTS: Available in Various GSM & Thread Counts (150 – 1000 Thread Count)",
-    "features": [
-      "Soft & Comfortable Fabric (Cotton / Satin)",
-      "Breathable & Skin-Friendly",
-      "Durable Stitching & Hotel-grade finish",
-      "Elegant Designs & Patterns",
-      "Easy Wash & Maintenance, Colour Fastness"
-    ],
-    "image": "/HOME/1.BEDDING/a52a0be8c70b55a55bb8b8bf91881ace.jpg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Customization Available",
-      "Applications: Residential Use, Hotels & Resorts, Hospitality Projects, Hospitals & Healthcare, Interior & Luxury Projects, Guest Houses & Serviced Apartments",
-      "Common Products: Bed Sheets, Comforters, Duvets, Quilts, Blankets, Bed Runners"
-    ]
-  },
-  {
-    "id": "prod-home-7",
-    "category": "home-decor",
-    "subCategory": "Bedding",
-    "name": "Bedding - Variant 7",
-    "desc": "BEDDING\nBedding is a premium range of high-end bed linen and sleep products designed to deliver superior comfort, elegance, and durability. Crafted from finest quality fabrics such as Egyptian cotton, satin, linen, bamboo fibre, silk blends, and high-thread-count cotton, luxury bedding enhances the overall sleeping experience while adding sophistication to interior spaces.",
-    "specs": "GSM & THREAD COUNTS: Available in Various GSM & Thread Counts (150 – 1000 Thread Count)",
-    "features": [
-      "Soft & Comfortable Fabric (Cotton / Satin)",
-      "Breathable & Skin-Friendly",
-      "Durable Stitching & Hotel-grade finish",
-      "Elegant Designs & Patterns",
-      "Easy Wash & Maintenance, Colour Fastness"
-    ],
-    "image": "/HOME/1.BEDDING/d570a068d4422011e4f99c52649ad797.jpg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Customization Available",
-      "Applications: Residential Use, Hotels & Resorts, Hospitality Projects, Hospitals & Healthcare, Interior & Luxury Projects, Guest Houses & Serviced Apartments",
-      "Common Products: Bed Sheets, Comforters, Duvets, Quilts, Blankets, Bed Runners"
-    ]
-  },
-  {
-    "id": "prod-home-8",
-    "category": "home-decor",
-    "subCategory": "Cushion & Covers",
-    "name": "Cushion & Covers - Variant 1",
-    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
-    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
-    "features": [
-      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
-      "Soft, durable & comfortable",
-      "Elegant patterns and modern designs",
-      "Easy maintenance & long-lasting colour"
-    ],
-    "image": "/HOME/2.CUSHION & COVERS/Screenshot_21-4-2026_161120_.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for residential & hospitality projects",
-      "All sizes available",
-      "Available in customized sizes, fabrics & colours"
-    ]
-  },
-  {
-    "id": "prod-home-9",
-    "category": "home-decor",
-    "subCategory": "Cushion & Covers",
-    "name": "Cushion & Covers - Variant 2",
-    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
-    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
-    "features": [
-      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
-      "Soft, durable & comfortable",
-      "Elegant patterns and modern designs",
-      "Easy maintenance & long-lasting colour"
-    ],
-    "image": "/HOME/2.CUSHION & COVERS/Screenshot_21-4-2026_16912_.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for residential & hospitality projects",
-      "All sizes available",
-      "Available in customized sizes, fabrics & colours"
-    ]
-  },
-  {
-    "id": "prod-home-10",
-    "category": "home-decor",
-    "subCategory": "Cushion & Covers",
-    "name": "Cushion & Covers - Variant 3",
-    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
-    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
-    "features": [
-      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
-      "Soft, durable & comfortable",
-      "Elegant patterns and modern designs",
-      "Easy maintenance & long-lasting colour"
-    ],
-    "image": "/HOME/2.CUSHION & COVERS/Untitled (4).png",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for residential & hospitality projects",
-      "All sizes available",
-      "Available in customized sizes, fabrics & colours"
-    ]
-  },
-  {
-    "id": "prod-home-11",
-    "category": "home-decor",
-    "subCategory": "Cushion & Covers",
-    "name": "Cushion & Covers - Variant 4",
-    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
-    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
-    "features": [
-      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
-      "Soft, durable & comfortable",
-      "Elegant patterns and modern designs",
-      "Easy maintenance & long-lasting colour"
-    ],
-    "image": "/HOME/2.CUSHION & COVERS/WhatsApp Image 2026-04-18 at 5.24.47 PM (1).jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for residential & hospitality projects",
-      "All sizes available",
-      "Available in customized sizes, fabrics & colours"
-    ]
-  },
-  {
-    "id": "prod-home-12",
-    "category": "home-decor",
-    "subCategory": "Cushion & Covers",
-    "name": "Cushion & Covers - Variant 5",
-    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
-    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
-    "features": [
-      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
-      "Soft, durable & comfortable",
-      "Elegant patterns and modern designs",
-      "Easy maintenance & long-lasting colour"
-    ],
-    "image": "/HOME/2.CUSHION & COVERS/WhatsApp Image 2026-04-19 at 11.41.51 AM.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for residential & hospitality projects",
-      "All sizes available",
-      "Available in customized sizes, fabrics & colours"
-    ]
-  },
-  {
-    "id": "prod-home-13",
-    "category": "home-decor",
-    "subCategory": "Cushion & Covers",
-    "name": "Cushion & Covers - Variant 6",
-    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
-    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
-    "features": [
-      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
-      "Soft, durable & comfortable",
-      "Elegant patterns and modern designs",
-      "Easy maintenance & long-lasting colour"
-    ],
-    "image": "/HOME/2.CUSHION & COVERS/WhatsApp Image 2026-04-20 at 11.16.24 AM (1).jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for residential & hospitality projects",
-      "All sizes available",
-      "Available in customized sizes, fabrics & colours"
-    ]
-  },
-  {
-    "id": "prod-home-14",
-    "category": "home-decor",
-    "subCategory": "Cushion & Covers",
-    "name": "Cushion & Covers - Variant 7",
-    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
-    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
-    "features": [
-      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
-      "Soft, durable & comfortable",
-      "Elegant patterns and modern designs",
-      "Easy maintenance & long-lasting colour"
-    ],
-    "image": "/HOME/2.CUSHION & COVERS/WhatsApp Image 2026-04-20 at 11.58.12 AM (1).jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for residential & hospitality projects",
-      "All sizes available",
-      "Available in customized sizes, fabrics & colours"
-    ]
-  },
-  {
-    "id": "prod-home-15",
-    "category": "home-decor",
-    "subCategory": "Cushion & Covers",
-    "name": "Cushion & Covers - Variant 8",
-    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
-    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
-    "features": [
-      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
-      "Soft, durable & comfortable",
-      "Elegant patterns and modern designs",
-      "Easy maintenance & long-lasting colour"
-    ],
-    "image": "/HOME/2.CUSHION & COVERS/WhatsApp Image 2026-04-20 at 11.58.12 AM.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for residential & hospitality projects",
-      "All sizes available",
-      "Available in customized sizes, fabrics & colours"
-    ]
-  },
-  {
-    "id": "prod-home-16",
-    "category": "home-decor",
-    "subCategory": "Cushion & Covers",
-    "name": "Cushion & Covers - Variant 9",
-    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
-    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
-    "features": [
-      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
-      "Soft, durable & comfortable",
-      "Elegant patterns and modern designs",
-      "Easy maintenance & long-lasting colour"
-    ],
-    "image": "/HOME/2.CUSHION & COVERS/WhatsApp Image 2026-04-21 at 5.46.00 PM.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for residential & hospitality projects",
-      "All sizes available",
-      "Available in customized sizes, fabrics & colours"
-    ]
-  },
-  {
-    "id": "prod-home-17",
-    "category": "home-decor",
-    "subCategory": "Cushion & Covers",
-    "name": "Cushion & Covers - Variant 10",
-    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
-    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
-    "features": [
-      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
-      "Soft, durable & comfortable",
-      "Elegant patterns and modern designs",
-      "Easy maintenance & long-lasting colour"
-    ],
-    "image": "/HOME/2.CUSHION & COVERS/WhatsApp Image 2026-04-21 at 5.46.02 PM.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for residential & hospitality projects",
-      "All sizes available",
-      "Available in customized sizes, fabrics & colours"
-    ]
-  },
-  {
     "id": "prod-home-18",
     "category": "home-decor",
     "subCategory": "Towels & Bathrobes",
@@ -3198,846 +2834,6 @@ const productsData = [
     "keyPoints": [
       "Logo & Designs Customization Available (embroidery & branding)",
       "Available in various sizes and colours"
-    ]
-  },
-  {
-    "id": "prod-home-29",
-    "category": "home-decor",
-    "subCategory": "Curtain Fabrics",
-    "name": "Curtain Fabrics - Variant 1",
-    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
-    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
-    "features": [
-      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
-      "Flame retardant",
-      "Premium quality finish with elegant texture and rich appearance",
-      "Soft feel with superior draping, Durable and colour fastness fabric"
-    ],
-    "image": "/HOME/4. CURTAIN FABRICS/Screenshot_21-4-2026_161318_.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Ideal for homes, hotels, and commercial interiors",
-      "Custom colours, patterns, and sizes available",
-      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
-    ]
-  },
-  {
-    "id": "prod-home-30",
-    "category": "home-decor",
-    "subCategory": "Curtain Fabrics",
-    "name": "Curtain Fabrics - Variant 2",
-    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
-    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
-    "features": [
-      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
-      "Flame retardant",
-      "Premium quality finish with elegant texture and rich appearance",
-      "Soft feel with superior draping, Durable and colour fastness fabric"
-    ],
-    "image": "/HOME/4. CURTAIN FABRICS/Screenshot_21-4-2026_161542_.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Ideal for homes, hotels, and commercial interiors",
-      "Custom colours, patterns, and sizes available",
-      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
-    ]
-  },
-  {
-    "id": "prod-home-31",
-    "category": "home-decor",
-    "subCategory": "Curtain Fabrics",
-    "name": "Curtain Fabrics - Variant 3",
-    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
-    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
-    "features": [
-      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
-      "Flame retardant",
-      "Premium quality finish with elegant texture and rich appearance",
-      "Soft feel with superior draping, Durable and colour fastness fabric"
-    ],
-    "image": "/HOME/4. CURTAIN FABRICS/Screenshot_21-4-2026_161610_.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Ideal for homes, hotels, and commercial interiors",
-      "Custom colours, patterns, and sizes available",
-      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
-    ]
-  },
-  {
-    "id": "prod-home-32",
-    "category": "home-decor",
-    "subCategory": "Curtain Fabrics",
-    "name": "Curtain Fabrics - Variant 4",
-    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
-    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
-    "features": [
-      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
-      "Flame retardant",
-      "Premium quality finish with elegant texture and rich appearance",
-      "Soft feel with superior draping, Durable and colour fastness fabric"
-    ],
-    "image": "/HOME/4. CURTAIN FABRICS/Screenshot_21-4-2026_161640_.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Ideal for homes, hotels, and commercial interiors",
-      "Custom colours, patterns, and sizes available",
-      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
-    ]
-  },
-  {
-    "id": "prod-home-33",
-    "category": "home-decor",
-    "subCategory": "Curtain Fabrics",
-    "name": "Curtain Fabrics - Variant 5",
-    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
-    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
-    "features": [
-      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
-      "Flame retardant",
-      "Premium quality finish with elegant texture and rich appearance",
-      "Soft feel with superior draping, Durable and colour fastness fabric"
-    ],
-    "image": "/HOME/4. CURTAIN FABRICS/Screenshot_21-4-2026_161657_.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Ideal for homes, hotels, and commercial interiors",
-      "Custom colours, patterns, and sizes available",
-      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
-    ]
-  },
-  {
-    "id": "prod-home-34",
-    "category": "home-decor",
-    "subCategory": "Curtain Fabrics",
-    "name": "Curtain Fabrics - Variant 6",
-    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
-    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
-    "features": [
-      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
-      "Flame retardant",
-      "Premium quality finish with elegant texture and rich appearance",
-      "Soft feel with superior draping, Durable and colour fastness fabric"
-    ],
-    "image": "/HOME/4. CURTAIN FABRICS/Screenshot_21-4-2026_161944_.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Ideal for homes, hotels, and commercial interiors",
-      "Custom colours, patterns, and sizes available",
-      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
-    ]
-  },
-  {
-    "id": "prod-home-35",
-    "category": "home-decor",
-    "subCategory": "Curtain Fabrics",
-    "name": "Curtain Fabrics - Variant 7",
-    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
-    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
-    "features": [
-      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
-      "Flame retardant",
-      "Premium quality finish with elegant texture and rich appearance",
-      "Soft feel with superior draping, Durable and colour fastness fabric"
-    ],
-    "image": "/HOME/4. CURTAIN FABRICS/Screenshot_21-4-2026_162029_.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Ideal for homes, hotels, and commercial interiors",
-      "Custom colours, patterns, and sizes available",
-      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
-    ]
-  },
-  {
-    "id": "prod-home-36",
-    "category": "home-decor",
-    "subCategory": "Curtain Fabrics",
-    "name": "Curtain Fabrics - Variant 8",
-    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
-    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
-    "features": [
-      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
-      "Flame retardant",
-      "Premium quality finish with elegant texture and rich appearance",
-      "Soft feel with superior draping, Durable and colour fastness fabric"
-    ],
-    "image": "/HOME/4. CURTAIN FABRICS/Screenshot_21-4-2026_16204_.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Ideal for homes, hotels, and commercial interiors",
-      "Custom colours, patterns, and sizes available",
-      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
-    ]
-  },
-  {
-    "id": "prod-home-37",
-    "category": "home-decor",
-    "subCategory": "Curtain Fabrics",
-    "name": "Curtain Fabrics - Variant 9",
-    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
-    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
-    "features": [
-      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
-      "Flame retardant",
-      "Premium quality finish with elegant texture and rich appearance",
-      "Soft feel with superior draping, Durable and colour fastness fabric"
-    ],
-    "image": "/HOME/4. CURTAIN FABRICS/Screenshot_21-4-2026_162322_.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Ideal for homes, hotels, and commercial interiors",
-      "Custom colours, patterns, and sizes available",
-      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
-    ]
-  },
-  {
-    "id": "prod-home-38",
-    "category": "home-decor",
-    "subCategory": "Curtain Fabrics",
-    "name": "Curtain Fabrics - Variant 10",
-    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
-    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
-    "features": [
-      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
-      "Flame retardant",
-      "Premium quality finish with elegant texture and rich appearance",
-      "Soft feel with superior draping, Durable and colour fastness fabric"
-    ],
-    "image": "/HOME/4. CURTAIN FABRICS/Screenshot_21-4-2026_162543_.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Ideal for homes, hotels, and commercial interiors",
-      "Custom colours, patterns, and sizes available",
-      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
-    ]
-  },
-  {
-    "id": "prod-home-39",
-    "category": "home-decor",
-    "subCategory": "Curtain Fabrics",
-    "name": "Curtain Fabrics - Variant 11",
-    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
-    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
-    "features": [
-      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
-      "Flame retardant",
-      "Premium quality finish with elegant texture and rich appearance",
-      "Soft feel with superior draping, Durable and colour fastness fabric"
-    ],
-    "image": "/HOME/4. CURTAIN FABRICS/Screenshot_21-4-2026_17750_.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Ideal for homes, hotels, and commercial interiors",
-      "Custom colours, patterns, and sizes available",
-      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
-    ]
-  },
-  {
-    "id": "prod-home-40",
-    "category": "home-decor",
-    "subCategory": "Curtain Fabrics",
-    "name": "Curtain Fabrics - Variant 12",
-    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
-    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
-    "features": [
-      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
-      "Flame retardant",
-      "Premium quality finish with elegant texture and rich appearance",
-      "Soft feel with superior draping, Durable and colour fastness fabric"
-    ],
-    "image": "/HOME/4. CURTAIN FABRICS/WhatsApp Image 2026-04-20 at 11.16.15 AM (1).jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Ideal for homes, hotels, and commercial interiors",
-      "Custom colours, patterns, and sizes available",
-      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
-    ]
-  },
-  {
-    "id": "prod-home-41",
-    "category": "home-decor",
-    "subCategory": "Curtain Fabrics",
-    "name": "Curtain Fabrics - Variant 13",
-    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
-    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
-    "features": [
-      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
-      "Flame retardant",
-      "Premium quality finish with elegant texture and rich appearance",
-      "Soft feel with superior draping, Durable and colour fastness fabric"
-    ],
-    "image": "/HOME/4. CURTAIN FABRICS/WhatsApp Image 2026-04-20 at 11.16.15 AM (3).jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Ideal for homes, hotels, and commercial interiors",
-      "Custom colours, patterns, and sizes available",
-      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
-    ]
-  },
-  {
-    "id": "prod-home-42",
-    "category": "home-decor",
-    "subCategory": "Curtain Fabrics",
-    "name": "Curtain Fabrics - Variant 14",
-    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
-    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
-    "features": [
-      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
-      "Flame retardant",
-      "Premium quality finish with elegant texture and rich appearance",
-      "Soft feel with superior draping, Durable and colour fastness fabric"
-    ],
-    "image": "/HOME/4. CURTAIN FABRICS/WhatsApp Image 2026-04-20 at 11.16.31 AM (3).jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Ideal for homes, hotels, and commercial interiors",
-      "Custom colours, patterns, and sizes available",
-      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
-    ]
-  },
-  {
-    "id": "prod-home-43",
-    "category": "home-decor",
-    "subCategory": "Curtain Fabrics",
-    "name": "Curtain Fabrics - Variant 15",
-    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
-    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
-    "features": [
-      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
-      "Flame retardant",
-      "Premium quality finish with elegant texture and rich appearance",
-      "Soft feel with superior draping, Durable and colour fastness fabric"
-    ],
-    "image": "/HOME/4. CURTAIN FABRICS/WhatsApp Image 2026-04-20 at 11.16.32 AM (2).jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Ideal for homes, hotels, and commercial interiors",
-      "Custom colours, patterns, and sizes available",
-      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
-    ]
-  },
-  {
-    "id": "prod-home-44",
-    "category": "home-decor",
-    "subCategory": "Curtain Fabrics",
-    "name": "Curtain Fabrics - Variant 16",
-    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
-    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
-    "features": [
-      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
-      "Flame retardant",
-      "Premium quality finish with elegant texture and rich appearance",
-      "Soft feel with superior draping, Durable and colour fastness fabric"
-    ],
-    "image": "/HOME/4. CURTAIN FABRICS/WhatsApp Image 2026-04-20 at 11.16.33 AM (1).jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Ideal for homes, hotels, and commercial interiors",
-      "Custom colours, patterns, and sizes available",
-      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
-    ]
-  },
-  {
-    "id": "prod-home-45",
-    "category": "home-decor",
-    "subCategory": "Curtain Fabrics",
-    "name": "Curtain Fabrics - Variant 17",
-    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
-    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
-    "features": [
-      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
-      "Flame retardant",
-      "Premium quality finish with elegant texture and rich appearance",
-      "Soft feel with superior draping, Durable and colour fastness fabric"
-    ],
-    "image": "/HOME/4. CURTAIN FABRICS/WhatsApp Image 2026-04-20 at 11.16.33 AM (2).jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Ideal for homes, hotels, and commercial interiors",
-      "Custom colours, patterns, and sizes available",
-      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
-    ]
-  },
-  {
-    "id": "prod-home-46",
-    "category": "home-decor",
-    "subCategory": "Curtain Fabrics",
-    "name": "Curtain Fabrics - Variant 18",
-    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
-    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
-    "features": [
-      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
-      "Flame retardant",
-      "Premium quality finish with elegant texture and rich appearance",
-      "Soft feel with superior draping, Durable and colour fastness fabric"
-    ],
-    "image": "/HOME/4. CURTAIN FABRICS/WhatsApp Image 2026-04-20 at 11.16.34 AM (1).jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Ideal for homes, hotels, and commercial interiors",
-      "Custom colours, patterns, and sizes available",
-      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
-    ]
-  },
-  {
-    "id": "prod-home-47",
-    "category": "home-decor",
-    "subCategory": "Curtain Fabrics",
-    "name": "Curtain Fabrics - Variant 19",
-    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
-    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
-    "features": [
-      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
-      "Flame retardant",
-      "Premium quality finish with elegant texture and rich appearance",
-      "Soft feel with superior draping, Durable and colour fastness fabric"
-    ],
-    "image": "/HOME/4. CURTAIN FABRICS/WhatsApp Image 2026-04-20 at 11.16.35 AM (1).jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Ideal for homes, hotels, and commercial interiors",
-      "Custom colours, patterns, and sizes available",
-      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
-    ]
-  },
-  {
-    "id": "prod-home-48",
-    "category": "home-decor",
-    "subCategory": "Curtain Fabrics",
-    "name": "Curtain Fabrics - Variant 20",
-    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
-    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
-    "features": [
-      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
-      "Flame retardant",
-      "Premium quality finish with elegant texture and rich appearance",
-      "Soft feel with superior draping, Durable and colour fastness fabric"
-    ],
-    "image": "/HOME/4. CURTAIN FABRICS/hotel-curtain.jpg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Ideal for homes, hotels, and commercial interiors",
-      "Custom colours, patterns, and sizes available",
-      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
-    ]
-  },
-  {
-    "id": "prod-home-49",
-    "category": "home-decor",
-    "subCategory": "Sofa & Chair Upholstery",
-    "name": "Sofa & Chair Upholstery - Variant 1",
-    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
-    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
-    "features": [
-      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
-      "Soft and comfortable finish with elegant designs and rich textures",
-      "Easy to clean and maintain",
-      "Available in fire-retardant and stain-resistant options"
-    ],
-    "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/Picture1.jpg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
-      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
-      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
-    ]
-  },
-  {
-    "id": "prod-home-50",
-    "category": "home-decor",
-    "subCategory": "Sofa & Chair Upholstery",
-    "name": "Sofa & Chair Upholstery - Variant 2",
-    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
-    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
-    "features": [
-      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
-      "Soft and comfortable finish with elegant designs and rich textures",
-      "Easy to clean and maintain",
-      "Available in fire-retardant and stain-resistant options"
-    ],
-    "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/Picture2.jpg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
-      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
-      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
-    ]
-  },
-  {
-    "id": "prod-home-51",
-    "category": "home-decor",
-    "subCategory": "Sofa & Chair Upholstery",
-    "name": "Sofa & Chair Upholstery - Variant 3",
-    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
-    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
-    "features": [
-      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
-      "Soft and comfortable finish with elegant designs and rich textures",
-      "Easy to clean and maintain",
-      "Available in fire-retardant and stain-resistant options"
-    ],
-    "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/Picture3.jpg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
-      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
-      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
-    ]
-  },
-  {
-    "id": "prod-home-52",
-    "category": "home-decor",
-    "subCategory": "Sofa & Chair Upholstery",
-    "name": "Sofa & Chair Upholstery - Variant 4",
-    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
-    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
-    "features": [
-      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
-      "Soft and comfortable finish with elegant designs and rich textures",
-      "Easy to clean and maintain",
-      "Available in fire-retardant and stain-resistant options"
-    ],
-    "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/Screenshot_21-4-2026_161254_.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
-      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
-      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
-    ]
-  },
-  {
-    "id": "prod-home-53",
-    "category": "home-decor",
-    "subCategory": "Sofa & Chair Upholstery",
-    "name": "Sofa & Chair Upholstery - Variant 5",
-    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
-    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
-    "features": [
-      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
-      "Soft and comfortable finish with elegant designs and rich textures",
-      "Easy to clean and maintain",
-      "Available in fire-retardant and stain-resistant options"
-    ],
-    "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/Screenshot_21-4-2026_161843_.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
-      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
-      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
-    ]
-  },
-  {
-    "id": "prod-home-54",
-    "category": "home-decor",
-    "subCategory": "Sofa & Chair Upholstery",
-    "name": "Sofa & Chair Upholstery - Variant 6",
-    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
-    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
-    "features": [
-      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
-      "Soft and comfortable finish with elegant designs and rich textures",
-      "Easy to clean and maintain",
-      "Available in fire-retardant and stain-resistant options"
-    ],
-    "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/Screenshot_21-4-2026_162255_.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
-      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
-      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
-    ]
-  },
-  {
-    "id": "prod-home-55",
-    "category": "home-decor",
-    "subCategory": "Sofa & Chair Upholstery",
-    "name": "Sofa & Chair Upholstery - Variant 7",
-    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
-    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
-    "features": [
-      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
-      "Soft and comfortable finish with elegant designs and rich textures",
-      "Easy to clean and maintain",
-      "Available in fire-retardant and stain-resistant options"
-    ],
-    "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-18 at 5.24.48 PM (1).jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
-      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
-      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
-    ]
-  },
-  {
-    "id": "prod-home-56",
-    "category": "home-decor",
-    "subCategory": "Sofa & Chair Upholstery",
-    "name": "Sofa & Chair Upholstery - Variant 8",
-    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
-    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
-    "features": [
-      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
-      "Soft and comfortable finish with elegant designs and rich textures",
-      "Easy to clean and maintain",
-      "Available in fire-retardant and stain-resistant options"
-    ],
-    "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.26 AM (2).jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
-      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
-      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
-    ]
-  },
-  {
-    "id": "prod-home-57",
-    "category": "home-decor",
-    "subCategory": "Sofa & Chair Upholstery",
-    "name": "Sofa & Chair Upholstery - Variant 9",
-    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
-    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
-    "features": [
-      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
-      "Soft and comfortable finish with elegant designs and rich textures",
-      "Easy to clean and maintain",
-      "Available in fire-retardant and stain-resistant options"
-    ],
-    "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.27 AM (2).jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
-      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
-      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
-    ]
-  },
-  {
-    "id": "prod-home-58",
-    "category": "home-decor",
-    "subCategory": "Sofa & Chair Upholstery",
-    "name": "Sofa & Chair Upholstery - Variant 10",
-    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
-    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
-    "features": [
-      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
-      "Soft and comfortable finish with elegant designs and rich textures",
-      "Easy to clean and maintain",
-      "Available in fire-retardant and stain-resistant options"
-    ],
-    "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.28 AM (1).jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
-      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
-      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
-    ]
-  },
-  {
-    "id": "prod-home-59",
-    "category": "home-decor",
-    "subCategory": "Sofa & Chair Upholstery",
-    "name": "Sofa & Chair Upholstery - Variant 11",
-    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
-    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
-    "features": [
-      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
-      "Soft and comfortable finish with elegant designs and rich textures",
-      "Easy to clean and maintain",
-      "Available in fire-retardant and stain-resistant options"
-    ],
-    "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.28 AM (2).jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
-      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
-      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
-    ]
-  },
-  {
-    "id": "prod-home-60",
-    "category": "home-decor",
-    "subCategory": "Sofa & Chair Upholstery",
-    "name": "Sofa & Chair Upholstery - Variant 12",
-    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
-    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
-    "features": [
-      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
-      "Soft and comfortable finish with elegant designs and rich textures",
-      "Easy to clean and maintain",
-      "Available in fire-retardant and stain-resistant options"
-    ],
-    "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.28 AM.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
-      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
-      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
-    ]
-  },
-  {
-    "id": "prod-home-61",
-    "category": "home-decor",
-    "subCategory": "Sofa & Chair Upholstery",
-    "name": "Sofa & Chair Upholstery - Variant 13",
-    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
-    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
-    "features": [
-      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
-      "Soft and comfortable finish with elegant designs and rich textures",
-      "Easy to clean and maintain",
-      "Available in fire-retardant and stain-resistant options"
-    ],
-    "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.29 AM.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
-      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
-      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
-    ]
-  },
-  {
-    "id": "prod-home-62",
-    "category": "home-decor",
-    "subCategory": "Sofa & Chair Upholstery",
-    "name": "Sofa & Chair Upholstery - Variant 14",
-    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
-    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
-    "features": [
-      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
-      "Soft and comfortable finish with elegant designs and rich textures",
-      "Easy to clean and maintain",
-      "Available in fire-retardant and stain-resistant options"
-    ],
-    "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.30 AM.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
-      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
-      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
-    ]
-  },
-  {
-    "id": "prod-home-63",
-    "category": "home-decor",
-    "subCategory": "Sofa & Chair Upholstery",
-    "name": "Sofa & Chair Upholstery - Variant 15",
-    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
-    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
-    "features": [
-      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
-      "Soft and comfortable finish with elegant designs and rich textures",
-      "Easy to clean and maintain",
-      "Available in fire-retardant and stain-resistant options"
-    ],
-    "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.31 AM (1).jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
-      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
-      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
-    ]
-  },
-  {
-    "id": "prod-home-64",
-    "category": "home-decor",
-    "subCategory": "Sofa & Chair Upholstery",
-    "name": "Sofa & Chair Upholstery - Variant 16",
-    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
-    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
-    "features": [
-      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
-      "Soft and comfortable finish with elegant designs and rich textures",
-      "Easy to clean and maintain",
-      "Available in fire-retardant and stain-resistant options"
-    ],
-    "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.31 AM.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
-      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
-      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
-    ]
-  },
-  {
-    "id": "prod-home-65",
-    "category": "home-decor",
-    "subCategory": "Sofa & Chair Upholstery",
-    "name": "Sofa & Chair Upholstery - Variant 17",
-    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
-    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
-    "features": [
-      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
-      "Soft and comfortable finish with elegant designs and rich textures",
-      "Easy to clean and maintain",
-      "Available in fire-retardant and stain-resistant options"
-    ],
-    "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.35 AM (2).jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
-      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
-      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
-    ]
-  },
-  {
-    "id": "prod-home-66",
-    "category": "home-decor",
-    "subCategory": "Sofa & Chair Upholstery",
-    "name": "Sofa & Chair Upholstery - Variant 18",
-    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
-    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
-    "features": [
-      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
-      "Soft and comfortable finish with elegant designs and rich textures",
-      "Easy to clean and maintain",
-      "Available in fire-retardant and stain-resistant options"
-    ],
-    "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.35 AM (3).jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
-      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
-      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
-    ]
-  },
-  {
-    "id": "prod-home-67",
-    "category": "home-decor",
-    "subCategory": "Sofa & Chair Upholstery",
-    "name": "Sofa & Chair Upholstery - Variant 19",
-    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
-    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
-    "features": [
-      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
-      "Soft and comfortable finish with elegant designs and rich textures",
-      "Easy to clean and maintain",
-      "Available in fire-retardant and stain-resistant options"
-    ],
-    "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.35 AM.jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
-      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
-      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
-    ]
-  },
-  {
-    "id": "prod-home-68",
-    "category": "home-decor",
-    "subCategory": "Sofa & Chair Upholstery",
-    "name": "Sofa & Chair Upholstery - Variant 20",
-    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
-    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
-    "features": [
-      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
-      "Soft and comfortable finish with elegant designs and rich textures",
-      "Easy to clean and maintain",
-      "Available in fire-retardant and stain-resistant options"
-    ],
-    "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.36 AM (1).jpeg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
-      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
-      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
     ]
   },
   {
@@ -4495,7 +3291,1236 @@ const productsData = [
     ]
   },
   {
-    "id": "prod-home-92",
+    "id": "prod-home-1780316210053-9570-0",
+    "category": "home-decor",
+    "subCategory": "Bedding",
+    "name": "Bedding - Variant 1",
+    "desc": "BEDDING\nBedding is a premium range of high-end bed linen and sleep products designed to deliver superior comfort, elegance, and durability. Crafted from finest quality fabrics such as Egyptian cotton, satin, linen, bamboo fibre, silk blends, and high-thread-count cotton, luxury bedding enhances the overall sleeping experience while adding sophistication to interior spaces.",
+    "specs": "GSM & THREAD COUNTS: Available in Various GSM & Thread Counts (150 – 1000 Thread Count)",
+    "features": [
+      "Soft & Comfortable Fabric (Cotton / Satin)",
+      "Breathable & Skin-Friendly",
+      "Durable Stitching & Hotel-grade finish",
+      "Elegant Designs & Patterns",
+      "Easy Wash & Maintenance, Colour Fastness"
+    ],
+    "image": "/NEW_HOME_DECOR/1.final BEDDING/1st.png",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Customization Available",
+      "Applications: Residential Use, Hotels & Resorts, Hospitality Projects, Hospitals & Healthcare, Interior & Luxury Projects, Guest Houses & Serviced Apartments",
+      "Common Products: Bed Sheets, Comforters, Duvets, Quilts, Blankets, Bed Runners"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210055-1312-1",
+    "category": "home-decor",
+    "subCategory": "Bedding",
+    "name": "Bedding - Variant 2",
+    "desc": "BEDDING\nBedding is a premium range of high-end bed linen and sleep products designed to deliver superior comfort, elegance, and durability. Crafted from finest quality fabrics such as Egyptian cotton, satin, linen, bamboo fibre, silk blends, and high-thread-count cotton, luxury bedding enhances the overall sleeping experience while adding sophistication to interior spaces.",
+    "specs": "GSM & THREAD COUNTS: Available in Various GSM & Thread Counts (150 – 1000 Thread Count)",
+    "features": [
+      "Soft & Comfortable Fabric (Cotton / Satin)",
+      "Breathable & Skin-Friendly",
+      "Durable Stitching & Hotel-grade finish",
+      "Elegant Designs & Patterns",
+      "Easy Wash & Maintenance, Colour Fastness"
+    ],
+    "image": "/NEW_HOME_DECOR/1.final BEDDING/Hotel-Curtains-Dubai-1.jpg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Customization Available",
+      "Applications: Residential Use, Hotels & Resorts, Hospitality Projects, Hospitals & Healthcare, Interior & Luxury Projects, Guest Houses & Serviced Apartments",
+      "Common Products: Bed Sheets, Comforters, Duvets, Quilts, Blankets, Bed Runners"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210056-7856-2",
+    "category": "home-decor",
+    "subCategory": "Bedding",
+    "name": "Bedding - Variant 3",
+    "desc": "BEDDING\nBedding is a premium range of high-end bed linen and sleep products designed to deliver superior comfort, elegance, and durability. Crafted from finest quality fabrics such as Egyptian cotton, satin, linen, bamboo fibre, silk blends, and high-thread-count cotton, luxury bedding enhances the overall sleeping experience while adding sophistication to interior spaces.",
+    "specs": "GSM & THREAD COUNTS: Available in Various GSM & Thread Counts (150 – 1000 Thread Count)",
+    "features": [
+      "Soft & Comfortable Fabric (Cotton / Satin)",
+      "Breathable & Skin-Friendly",
+      "Durable Stitching & Hotel-grade finish",
+      "Elegant Designs & Patterns",
+      "Easy Wash & Maintenance, Colour Fastness"
+    ],
+    "image": "/NEW_HOME_DECOR/1.final BEDDING/Untitled - June 01, 2026 at 10.53.12 (5).png",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Customization Available",
+      "Applications: Residential Use, Hotels & Resorts, Hospitality Projects, Hospitals & Healthcare, Interior & Luxury Projects, Guest Houses & Serviced Apartments",
+      "Common Products: Bed Sheets, Comforters, Duvets, Quilts, Blankets, Bed Runners"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210057-3307-3",
+    "category": "home-decor",
+    "subCategory": "Bedding",
+    "name": "Bedding - Variant 4",
+    "desc": "BEDDING\nBedding is a premium range of high-end bed linen and sleep products designed to deliver superior comfort, elegance, and durability. Crafted from finest quality fabrics such as Egyptian cotton, satin, linen, bamboo fibre, silk blends, and high-thread-count cotton, luxury bedding enhances the overall sleeping experience while adding sophistication to interior spaces.",
+    "specs": "GSM & THREAD COUNTS: Available in Various GSM & Thread Counts (150 – 1000 Thread Count)",
+    "features": [
+      "Soft & Comfortable Fabric (Cotton / Satin)",
+      "Breathable & Skin-Friendly",
+      "Durable Stitching & Hotel-grade finish",
+      "Elegant Designs & Patterns",
+      "Easy Wash & Maintenance, Colour Fastness"
+    ],
+    "image": "/NEW_HOME_DECOR/1.final BEDDING/WhatsApp Image 2026-04-21 at 3.16.07 PM.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Customization Available",
+      "Applications: Residential Use, Hotels & Resorts, Hospitality Projects, Hospitals & Healthcare, Interior & Luxury Projects, Guest Houses & Serviced Apartments",
+      "Common Products: Bed Sheets, Comforters, Duvets, Quilts, Blankets, Bed Runners"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210058-2513-4",
+    "category": "home-decor",
+    "subCategory": "Bedding",
+    "name": "Bedding - Variant 5",
+    "desc": "BEDDING\nBedding is a premium range of high-end bed linen and sleep products designed to deliver superior comfort, elegance, and durability. Crafted from finest quality fabrics such as Egyptian cotton, satin, linen, bamboo fibre, silk blends, and high-thread-count cotton, luxury bedding enhances the overall sleeping experience while adding sophistication to interior spaces.",
+    "specs": "GSM & THREAD COUNTS: Available in Various GSM & Thread Counts (150 – 1000 Thread Count)",
+    "features": [
+      "Soft & Comfortable Fabric (Cotton / Satin)",
+      "Breathable & Skin-Friendly",
+      "Durable Stitching & Hotel-grade finish",
+      "Elegant Designs & Patterns",
+      "Easy Wash & Maintenance, Colour Fastness"
+    ],
+    "image": "/NEW_HOME_DECOR/1.final BEDDING/WhatsApp Image 2026-06-01 at 10.40.11 AM.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Customization Available",
+      "Applications: Residential Use, Hotels & Resorts, Hospitality Projects, Hospitals & Healthcare, Interior & Luxury Projects, Guest Houses & Serviced Apartments",
+      "Common Products: Bed Sheets, Comforters, Duvets, Quilts, Blankets, Bed Runners"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210060-3278-5",
+    "category": "home-decor",
+    "subCategory": "Bedding",
+    "name": "Bedding - Variant 6",
+    "desc": "BEDDING\nBedding is a premium range of high-end bed linen and sleep products designed to deliver superior comfort, elegance, and durability. Crafted from finest quality fabrics such as Egyptian cotton, satin, linen, bamboo fibre, silk blends, and high-thread-count cotton, luxury bedding enhances the overall sleeping experience while adding sophistication to interior spaces.",
+    "specs": "GSM & THREAD COUNTS: Available in Various GSM & Thread Counts (150 – 1000 Thread Count)",
+    "features": [
+      "Soft & Comfortable Fabric (Cotton / Satin)",
+      "Breathable & Skin-Friendly",
+      "Durable Stitching & Hotel-grade finish",
+      "Elegant Designs & Patterns",
+      "Easy Wash & Maintenance, Colour Fastness"
+    ],
+    "image": "/NEW_HOME_DECOR/1.final BEDDING/WhatsApp Image 2026-06-01 at 10.40.30 AM (2).jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Customization Available",
+      "Applications: Residential Use, Hotels & Resorts, Hospitality Projects, Hospitals & Healthcare, Interior & Luxury Projects, Guest Houses & Serviced Apartments",
+      "Common Products: Bed Sheets, Comforters, Duvets, Quilts, Blankets, Bed Runners"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210061-4805-6",
+    "category": "home-decor",
+    "subCategory": "Bedding",
+    "name": "Bedding - Variant 7",
+    "desc": "BEDDING\nBedding is a premium range of high-end bed linen and sleep products designed to deliver superior comfort, elegance, and durability. Crafted from finest quality fabrics such as Egyptian cotton, satin, linen, bamboo fibre, silk blends, and high-thread-count cotton, luxury bedding enhances the overall sleeping experience while adding sophistication to interior spaces.",
+    "specs": "GSM & THREAD COUNTS: Available in Various GSM & Thread Counts (150 – 1000 Thread Count)",
+    "features": [
+      "Soft & Comfortable Fabric (Cotton / Satin)",
+      "Breathable & Skin-Friendly",
+      "Durable Stitching & Hotel-grade finish",
+      "Elegant Designs & Patterns",
+      "Easy Wash & Maintenance, Colour Fastness"
+    ],
+    "image": "/NEW_HOME_DECOR/1.final BEDDING/WhatsApp Image 2026-06-01 at 10.40.32 AM (1).jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Customization Available",
+      "Applications: Residential Use, Hotels & Resorts, Hospitality Projects, Hospitals & Healthcare, Interior & Luxury Projects, Guest Houses & Serviced Apartments",
+      "Common Products: Bed Sheets, Comforters, Duvets, Quilts, Blankets, Bed Runners"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210062-6294-7",
+    "category": "home-decor",
+    "subCategory": "Bedding",
+    "name": "Bedding - Variant 8",
+    "desc": "BEDDING\nBedding is a premium range of high-end bed linen and sleep products designed to deliver superior comfort, elegance, and durability. Crafted from finest quality fabrics such as Egyptian cotton, satin, linen, bamboo fibre, silk blends, and high-thread-count cotton, luxury bedding enhances the overall sleeping experience while adding sophistication to interior spaces.",
+    "specs": "GSM & THREAD COUNTS: Available in Various GSM & Thread Counts (150 – 1000 Thread Count)",
+    "features": [
+      "Soft & Comfortable Fabric (Cotton / Satin)",
+      "Breathable & Skin-Friendly",
+      "Durable Stitching & Hotel-grade finish",
+      "Elegant Designs & Patterns",
+      "Easy Wash & Maintenance, Colour Fastness"
+    ],
+    "image": "/NEW_HOME_DECOR/1.final BEDDING/WhatsApp Image 2026-06-01 at 10.40.47 AM.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Customization Available",
+      "Applications: Residential Use, Hotels & Resorts, Hospitality Projects, Hospitals & Healthcare, Interior & Luxury Projects, Guest Houses & Serviced Apartments",
+      "Common Products: Bed Sheets, Comforters, Duvets, Quilts, Blankets, Bed Runners"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210062-2555-8",
+    "category": "home-decor",
+    "subCategory": "Bedding",
+    "name": "Bedding - Variant 9",
+    "desc": "BEDDING\nBedding is a premium range of high-end bed linen and sleep products designed to deliver superior comfort, elegance, and durability. Crafted from finest quality fabrics such as Egyptian cotton, satin, linen, bamboo fibre, silk blends, and high-thread-count cotton, luxury bedding enhances the overall sleeping experience while adding sophistication to interior spaces.",
+    "specs": "GSM & THREAD COUNTS: Available in Various GSM & Thread Counts (150 – 1000 Thread Count)",
+    "features": [
+      "Soft & Comfortable Fabric (Cotton / Satin)",
+      "Breathable & Skin-Friendly",
+      "Durable Stitching & Hotel-grade finish",
+      "Elegant Designs & Patterns",
+      "Easy Wash & Maintenance, Colour Fastness"
+    ],
+    "image": "/NEW_HOME_DECOR/1.final BEDDING/WhatsApp Image 2026-06-01 at 10.40.48 AM (1).jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Customization Available",
+      "Applications: Residential Use, Hotels & Resorts, Hospitality Projects, Hospitals & Healthcare, Interior & Luxury Projects, Guest Houses & Serviced Apartments",
+      "Common Products: Bed Sheets, Comforters, Duvets, Quilts, Blankets, Bed Runners"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210065-9486-9",
+    "category": "home-decor",
+    "subCategory": "Bedding",
+    "name": "Bedding - Variant 10",
+    "desc": "BEDDING\nBedding is a premium range of high-end bed linen and sleep products designed to deliver superior comfort, elegance, and durability. Crafted from finest quality fabrics such as Egyptian cotton, satin, linen, bamboo fibre, silk blends, and high-thread-count cotton, luxury bedding enhances the overall sleeping experience while adding sophistication to interior spaces.",
+    "specs": "GSM & THREAD COUNTS: Available in Various GSM & Thread Counts (150 – 1000 Thread Count)",
+    "features": [
+      "Soft & Comfortable Fabric (Cotton / Satin)",
+      "Breathable & Skin-Friendly",
+      "Durable Stitching & Hotel-grade finish",
+      "Elegant Designs & Patterns",
+      "Easy Wash & Maintenance, Colour Fastness"
+    ],
+    "image": "/NEW_HOME_DECOR/1.final BEDDING/WhatsApp Image 2026-06-01 at 10.40.49 AM.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Customization Available",
+      "Applications: Residential Use, Hotels & Resorts, Hospitality Projects, Hospitals & Healthcare, Interior & Luxury Projects, Guest Houses & Serviced Apartments",
+      "Common Products: Bed Sheets, Comforters, Duvets, Quilts, Blankets, Bed Runners"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210066-754-10",
+    "category": "home-decor",
+    "subCategory": "Bedding",
+    "name": "Bedding - Variant 11",
+    "desc": "BEDDING\nBedding is a premium range of high-end bed linen and sleep products designed to deliver superior comfort, elegance, and durability. Crafted from finest quality fabrics such as Egyptian cotton, satin, linen, bamboo fibre, silk blends, and high-thread-count cotton, luxury bedding enhances the overall sleeping experience while adding sophistication to interior spaces.",
+    "specs": "GSM & THREAD COUNTS: Available in Various GSM & Thread Counts (150 – 1000 Thread Count)",
+    "features": [
+      "Soft & Comfortable Fabric (Cotton / Satin)",
+      "Breathable & Skin-Friendly",
+      "Durable Stitching & Hotel-grade finish",
+      "Elegant Designs & Patterns",
+      "Easy Wash & Maintenance, Colour Fastness"
+    ],
+    "image": "/NEW_HOME_DECOR/1.final BEDDING/d570a068d4422011e4f99c52649ad797.jpg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Customization Available",
+      "Applications: Residential Use, Hotels & Resorts, Hospitality Projects, Hospitals & Healthcare, Interior & Luxury Projects, Guest Houses & Serviced Apartments",
+      "Common Products: Bed Sheets, Comforters, Duvets, Quilts, Blankets, Bed Runners"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210071-2644-0",
+    "category": "home-decor",
+    "subCategory": "Cushion & Covers",
+    "name": "Cushion & Covers - Variant 1",
+    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
+    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
+    "features": [
+      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
+      "Soft, durable & comfortable",
+      "Elegant patterns and modern designs",
+      "Easy maintenance & long-lasting colour"
+    ],
+    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/Screenshot_21-4-2026_161120_.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for residential & hospitality projects",
+      "All sizes available",
+      "Available in customized sizes, fabrics & colours"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210076-1781-1",
+    "category": "home-decor",
+    "subCategory": "Cushion & Covers",
+    "name": "Cushion & Covers - Variant 2",
+    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
+    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
+    "features": [
+      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
+      "Soft, durable & comfortable",
+      "Elegant patterns and modern designs",
+      "Easy maintenance & long-lasting colour"
+    ],
+    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/Screenshot_21-4-2026_16912_.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for residential & hospitality projects",
+      "All sizes available",
+      "Available in customized sizes, fabrics & colours"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210123-2823-2",
+    "category": "home-decor",
+    "subCategory": "Cushion & Covers",
+    "name": "Cushion & Covers - Variant 3",
+    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
+    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
+    "features": [
+      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
+      "Soft, durable & comfortable",
+      "Elegant patterns and modern designs",
+      "Easy maintenance & long-lasting colour"
+    ],
+    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/Untitled (4).png",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for residential & hospitality projects",
+      "All sizes available",
+      "Available in customized sizes, fabrics & colours"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210127-7743-3",
+    "category": "home-decor",
+    "subCategory": "Cushion & Covers",
+    "name": "Cushion & Covers - Variant 4",
+    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
+    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
+    "features": [
+      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
+      "Soft, durable & comfortable",
+      "Elegant patterns and modern designs",
+      "Easy maintenance & long-lasting colour"
+    ],
+    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/WhatsApp Image 2026-04-18 at 5.24.47 PM (1).jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for residential & hospitality projects",
+      "All sizes available",
+      "Available in customized sizes, fabrics & colours"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210130-6807-4",
+    "category": "home-decor",
+    "subCategory": "Cushion & Covers",
+    "name": "Cushion & Covers - Variant 5",
+    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
+    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
+    "features": [
+      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
+      "Soft, durable & comfortable",
+      "Elegant patterns and modern designs",
+      "Easy maintenance & long-lasting colour"
+    ],
+    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/WhatsApp Image 2026-04-19 at 11.41.51 AM.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for residential & hospitality projects",
+      "All sizes available",
+      "Available in customized sizes, fabrics & colours"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210131-4726-5",
+    "category": "home-decor",
+    "subCategory": "Cushion & Covers",
+    "name": "Cushion & Covers - Variant 6",
+    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
+    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
+    "features": [
+      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
+      "Soft, durable & comfortable",
+      "Elegant patterns and modern designs",
+      "Easy maintenance & long-lasting colour"
+    ],
+    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/WhatsApp Image 2026-04-20 at 11.16.24 AM (1).jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for residential & hospitality projects",
+      "All sizes available",
+      "Available in customized sizes, fabrics & colours"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210137-9325-6",
+    "category": "home-decor",
+    "subCategory": "Cushion & Covers",
+    "name": "Cushion & Covers - Variant 7",
+    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
+    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
+    "features": [
+      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
+      "Soft, durable & comfortable",
+      "Elegant patterns and modern designs",
+      "Easy maintenance & long-lasting colour"
+    ],
+    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/WhatsApp Image 2026-04-20 at 11.58.12 AM (1).jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for residential & hospitality projects",
+      "All sizes available",
+      "Available in customized sizes, fabrics & colours"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210145-3076-7",
+    "category": "home-decor",
+    "subCategory": "Cushion & Covers",
+    "name": "Cushion & Covers - Variant 8",
+    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
+    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
+    "features": [
+      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
+      "Soft, durable & comfortable",
+      "Elegant patterns and modern designs",
+      "Easy maintenance & long-lasting colour"
+    ],
+    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/WhatsApp Image 2026-04-20 at 11.58.12 AM.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for residential & hospitality projects",
+      "All sizes available",
+      "Available in customized sizes, fabrics & colours"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210146-9677-8",
+    "category": "home-decor",
+    "subCategory": "Cushion & Covers",
+    "name": "Cushion & Covers - Variant 9",
+    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
+    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
+    "features": [
+      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
+      "Soft, durable & comfortable",
+      "Elegant patterns and modern designs",
+      "Easy maintenance & long-lasting colour"
+    ],
+    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/WhatsApp Image 2026-04-21 at 5.46.00 PM.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for residential & hospitality projects",
+      "All sizes available",
+      "Available in customized sizes, fabrics & colours"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210146-1705-9",
+    "category": "home-decor",
+    "subCategory": "Cushion & Covers",
+    "name": "Cushion & Covers - Variant 10",
+    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
+    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
+    "features": [
+      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
+      "Soft, durable & comfortable",
+      "Elegant patterns and modern designs",
+      "Easy maintenance & long-lasting colour"
+    ],
+    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/WhatsApp Image 2026-04-21 at 5.46.02 PM.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for residential & hospitality projects",
+      "All sizes available",
+      "Available in customized sizes, fabrics & colours"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210158-3009-10",
+    "category": "home-decor",
+    "subCategory": "Cushion & Covers",
+    "name": "Cushion & Covers - Variant 11",
+    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
+    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
+    "features": [
+      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
+      "Soft, durable & comfortable",
+      "Elegant patterns and modern designs",
+      "Easy maintenance & long-lasting colour"
+    ],
+    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/WhatsApp Image 2026-06-01 at 10.40.14 AM.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for residential & hospitality projects",
+      "All sizes available",
+      "Available in customized sizes, fabrics & colours"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210172-2869-11",
+    "category": "home-decor",
+    "subCategory": "Cushion & Covers",
+    "name": "Cushion & Covers - Variant 12",
+    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
+    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
+    "features": [
+      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
+      "Soft, durable & comfortable",
+      "Elegant patterns and modern designs",
+      "Easy maintenance & long-lasting colour"
+    ],
+    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/WhatsApp Image 2026-06-01 at 10.40.22 AM.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for residential & hospitality projects",
+      "All sizes available",
+      "Available in customized sizes, fabrics & colours"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210173-9067-12",
+    "category": "home-decor",
+    "subCategory": "Cushion & Covers",
+    "name": "Cushion & Covers - Variant 13",
+    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
+    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
+    "features": [
+      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
+      "Soft, durable & comfortable",
+      "Elegant patterns and modern designs",
+      "Easy maintenance & long-lasting colour"
+    ],
+    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/WhatsApp Image 2026-06-01 at 10.40.23 AM.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for residential & hospitality projects",
+      "All sizes available",
+      "Available in customized sizes, fabrics & colours"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210174-1475-13",
+    "category": "home-decor",
+    "subCategory": "Cushion & Covers",
+    "name": "Cushion & Covers - Variant 14",
+    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
+    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
+    "features": [
+      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
+      "Soft, durable & comfortable",
+      "Elegant patterns and modern designs",
+      "Easy maintenance & long-lasting colour"
+    ],
+    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/WhatsApp Image 2026-06-01 at 10.40.27 AM.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for residential & hospitality projects",
+      "All sizes available",
+      "Available in customized sizes, fabrics & colours"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210179-5845-0",
+    "category": "home-decor",
+    "subCategory": "Curtain Fabrics",
+    "name": "Curtain Fabrics - Variant 1",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
+    "features": [
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
+    ],
+    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Screenshot_21-4-2026_161610_.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210187-5818-1",
+    "category": "home-decor",
+    "subCategory": "Curtain Fabrics",
+    "name": "Curtain Fabrics - Variant 2",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
+    "features": [
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
+    ],
+    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Screenshot_21-4-2026_161657_.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210191-1477-2",
+    "category": "home-decor",
+    "subCategory": "Curtain Fabrics",
+    "name": "Curtain Fabrics - Variant 3",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
+    "features": [
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
+    ],
+    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Screenshot_21-4-2026_161944_.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210192-1574-3",
+    "category": "home-decor",
+    "subCategory": "Curtain Fabrics",
+    "name": "Curtain Fabrics - Variant 4",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
+    "features": [
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
+    ],
+    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Screenshot_21-4-2026_162029_.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210194-5282-4",
+    "category": "home-decor",
+    "subCategory": "Curtain Fabrics",
+    "name": "Curtain Fabrics - Variant 5",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
+    "features": [
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
+    ],
+    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Screenshot_21-4-2026_162322_.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210195-7530-5",
+    "category": "home-decor",
+    "subCategory": "Curtain Fabrics",
+    "name": "Curtain Fabrics - Variant 6",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
+    "features": [
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
+    ],
+    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Screenshot_21-4-2026_162543_.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210197-6657-6",
+    "category": "home-decor",
+    "subCategory": "Curtain Fabrics",
+    "name": "Curtain Fabrics - Variant 7",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
+    "features": [
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
+    ],
+    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Untitled - June 01, 2026 at 10.53.12 (1).png",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210199-2246-7",
+    "category": "home-decor",
+    "subCategory": "Curtain Fabrics",
+    "name": "Curtain Fabrics - Variant 8",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
+    "features": [
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
+    ],
+    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Untitled - June 01, 2026 at 10.53.12 (11).png",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210202-5144-8",
+    "category": "home-decor",
+    "subCategory": "Curtain Fabrics",
+    "name": "Curtain Fabrics - Variant 9",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
+    "features": [
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
+    ],
+    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Untitled - June 01, 2026 at 10.53.12 (2).png",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210204-1904-9",
+    "category": "home-decor",
+    "subCategory": "Curtain Fabrics",
+    "name": "Curtain Fabrics - Variant 10",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
+    "features": [
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
+    ],
+    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Untitled - June 01, 2026 at 10.53.12 (3).png",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210205-6247-10",
+    "category": "home-decor",
+    "subCategory": "Curtain Fabrics",
+    "name": "Curtain Fabrics - Variant 11",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
+    "features": [
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
+    ],
+    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Untitled - June 01, 2026 at 10.53.12 (6).png",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210209-3264-11",
+    "category": "home-decor",
+    "subCategory": "Curtain Fabrics",
+    "name": "Curtain Fabrics - Variant 12",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
+    "features": [
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
+    ],
+    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Untitled - June 01, 2026 at 10.53.12 (7).png",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210210-3303-12",
+    "category": "home-decor",
+    "subCategory": "Curtain Fabrics",
+    "name": "Curtain Fabrics - Variant 13",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
+    "features": [
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
+    ],
+    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Untitled - June 01, 2026 at 10.53.12 (9).png",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210211-8168-13",
+    "category": "home-decor",
+    "subCategory": "Curtain Fabrics",
+    "name": "Curtain Fabrics - Variant 14",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
+    "features": [
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
+    ],
+    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Untitled - June 01, 2026 at 10.53.12.png",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210213-3417-14",
+    "category": "home-decor",
+    "subCategory": "Curtain Fabrics",
+    "name": "Curtain Fabrics - Variant 15",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
+    "features": [
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
+    ],
+    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/WhatsApp Image 2026-04-20 at 11.16.15 AM (1).jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210214-955-15",
+    "category": "home-decor",
+    "subCategory": "Curtain Fabrics",
+    "name": "Curtain Fabrics - Variant 16",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
+    "features": [
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
+    ],
+    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/WhatsApp Image 2026-04-20 at 11.16.33 AM (1).jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210214-6184-16",
+    "category": "home-decor",
+    "subCategory": "Curtain Fabrics",
+    "name": "Curtain Fabrics - Variant 17",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
+    "features": [
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
+    ],
+    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/WhatsApp Image 2026-04-20 at 11.16.34 AM (1).jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210215-9796-17",
+    "category": "home-decor",
+    "subCategory": "Curtain Fabrics",
+    "name": "Curtain Fabrics - Variant 18",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
+    "features": [
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
+    ],
+    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/WhatsApp Image 2026-06-01 at 10.40.19 AM.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210217-9380-18",
+    "category": "home-decor",
+    "subCategory": "Curtain Fabrics",
+    "name": "Curtain Fabrics - Variant 19",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
+    "features": [
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
+    ],
+    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/WhatsApp Image 2026-06-01 at 10.40.25 AM.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210218-3011-19",
+    "category": "home-decor",
+    "subCategory": "Curtain Fabrics",
+    "name": "Curtain Fabrics - Variant 20",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
+    "features": [
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
+    ],
+    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/WhatsApp Image 2026-06-01 at 10.40.38 AM (1).jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210220-9731-20",
+    "category": "home-decor",
+    "subCategory": "Curtain Fabrics",
+    "name": "Curtain Fabrics - Variant 21",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
+    "features": [
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
+    ],
+    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/WhatsApp Image 2026-06-01 at 10.40.39 AM (1).jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210223-266-0",
+    "category": "home-decor",
+    "subCategory": "Sofa & Chair Upholstery",
+    "name": "Sofa & Chair Upholstery - Variant 1",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
+    "features": [
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
+    ],
+    "image": "/NEW_HOME_DECOR/5.final  SOFA & CHAIR UPHOLSTARY/Picture1.jpg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210223-9009-1",
+    "category": "home-decor",
+    "subCategory": "Sofa & Chair Upholstery",
+    "name": "Sofa & Chair Upholstery - Variant 2",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
+    "features": [
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
+    ],
+    "image": "/NEW_HOME_DECOR/5.final  SOFA & CHAIR UPHOLSTARY/Screenshot_21-4-2026_161843_.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210227-8432-2",
+    "category": "home-decor",
+    "subCategory": "Sofa & Chair Upholstery",
+    "name": "Sofa & Chair Upholstery - Variant 3",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
+    "features": [
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
+    ],
+    "image": "/NEW_HOME_DECOR/5.final  SOFA & CHAIR UPHOLSTARY/Untitled - June 01, 2026 at 10.53.12 (13).png",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210231-7779-3",
+    "category": "home-decor",
+    "subCategory": "Sofa & Chair Upholstery",
+    "name": "Sofa & Chair Upholstery - Variant 4",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
+    "features": [
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
+    ],
+    "image": "/NEW_HOME_DECOR/5.final  SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-18 at 5.24.48 PM (1).jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210232-7215-4",
+    "category": "home-decor",
+    "subCategory": "Sofa & Chair Upholstery",
+    "name": "Sofa & Chair Upholstery - Variant 5",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
+    "features": [
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
+    ],
+    "image": "/NEW_HOME_DECOR/5.final  SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.26 AM (2).jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210233-6340-5",
+    "category": "home-decor",
+    "subCategory": "Sofa & Chair Upholstery",
+    "name": "Sofa & Chair Upholstery - Variant 6",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
+    "features": [
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
+    ],
+    "image": "/NEW_HOME_DECOR/5.final  SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.28 AM (2).jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210233-8728-6",
+    "category": "home-decor",
+    "subCategory": "Sofa & Chair Upholstery",
+    "name": "Sofa & Chair Upholstery - Variant 7",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
+    "features": [
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
+    ],
+    "image": "/NEW_HOME_DECOR/5.final  SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.28 AM.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210236-3600-7",
+    "category": "home-decor",
+    "subCategory": "Sofa & Chair Upholstery",
+    "name": "Sofa & Chair Upholstery - Variant 8",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
+    "features": [
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
+    ],
+    "image": "/NEW_HOME_DECOR/5.final  SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.29 AM.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210237-3228-8",
+    "category": "home-decor",
+    "subCategory": "Sofa & Chair Upholstery",
+    "name": "Sofa & Chair Upholstery - Variant 9",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
+    "features": [
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
+    ],
+    "image": "/NEW_HOME_DECOR/5.final  SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.31 AM.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210237-3828-9",
+    "category": "home-decor",
+    "subCategory": "Sofa & Chair Upholstery",
+    "name": "Sofa & Chair Upholstery - Variant 10",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
+    "features": [
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
+    ],
+    "image": "/NEW_HOME_DECOR/5.final  SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-05-21 at 5.10.29 PM (1).jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210238-9657-10",
+    "category": "home-decor",
+    "subCategory": "Sofa & Chair Upholstery",
+    "name": "Sofa & Chair Upholstery - Variant 11",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
+    "features": [
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
+    ],
+    "image": "/NEW_HOME_DECOR/5.final  SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-05-21 at 5.10.29 PM.jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210239-9141-11",
+    "category": "home-decor",
+    "subCategory": "Sofa & Chair Upholstery",
+    "name": "Sofa & Chair Upholstery - Variant 12",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
+    "features": [
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
+    ],
+    "image": "/NEW_HOME_DECOR/5.final  SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-06-01 at 10.40.30 AM (1).jpeg",
+    "priceRange": "Project Quote",
+    "keyPoints": [
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
+    ]
+  },
+  {
+    "id": "prod-home-1780316210240-7300-0",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
     "name": "Fabric Bags & Jute Bags - Variant 1",
@@ -4506,7 +4531,7 @@ const productsData = [
       "Offers both functionality and a modern aesthetic appeal",
       "Reusable and sustainable eco-friendly materials"
     ],
-    "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/39617465-12614382.avif",
+    "image": "/NEW_HOME_DECOR/6.final bags/51-AlNO9owL._AC_UL495_SR435,495_.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customized printing options available",
@@ -4514,7 +4539,7 @@ const productsData = [
     ]
   },
   {
-    "id": "prod-home-93",
+    "id": "prod-home-1780316210241-2657-1",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
     "name": "Fabric Bags & Jute Bags - Variant 2",
@@ -4525,7 +4550,7 @@ const productsData = [
       "Offers both functionality and a modern aesthetic appeal",
       "Reusable and sustainable eco-friendly materials"
     ],
-    "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/3a274f21-476b-4208-aead-15a9079a2329_74bc3dfa-57ce-4798-bbb4-40b1eb719c8e.webp",
+    "image": "/NEW_HOME_DECOR/6.final bags/536639da509162d8ef3b8287f8138834.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customized printing options available",
@@ -4533,7 +4558,7 @@ const productsData = [
     ]
   },
   {
-    "id": "prod-home-94",
+    "id": "prod-home-1780316210242-1858-2",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
     "name": "Fabric Bags & Jute Bags - Variant 3",
@@ -4544,7 +4569,7 @@ const productsData = [
       "Offers both functionality and a modern aesthetic appeal",
       "Reusable and sustainable eco-friendly materials"
     ],
-    "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/71483Zs4lHL._AC_UY1100_.jpg",
+    "image": "/NEW_HOME_DECOR/6.final bags/6-Benefits-of-Eco-friendly-Jute-Bags-Copy_3.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customized printing options available",
@@ -4552,7 +4577,7 @@ const productsData = [
     ]
   },
   {
-    "id": "prod-home-95",
+    "id": "prod-home-1780316210244-7836-3",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
     "name": "Fabric Bags & Jute Bags - Variant 4",
@@ -4563,7 +4588,7 @@ const productsData = [
       "Offers both functionality and a modern aesthetic appeal",
       "Reusable and sustainable eco-friendly materials"
     ],
-    "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/71JV347wmaL.jpg",
+    "image": "/NEW_HOME_DECOR/6.final bags/71483Zs4lHL._AC_UY1100_.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customized printing options available",
@@ -4571,7 +4596,7 @@ const productsData = [
     ]
   },
   {
-    "id": "prod-home-96",
+    "id": "prod-home-1780316210244-7727-4",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
     "name": "Fabric Bags & Jute Bags - Variant 5",
@@ -4582,7 +4607,7 @@ const productsData = [
       "Offers both functionality and a modern aesthetic appeal",
       "Reusable and sustainable eco-friendly materials"
     ],
-    "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/93f08780-b1dd-4b7d-84e2-a8aeeb529564.jpg",
+    "image": "/NEW_HOME_DECOR/6.final bags/71CRVdF42wL._AC_UY1100_.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customized printing options available",
@@ -4590,7 +4615,7 @@ const productsData = [
     ]
   },
   {
-    "id": "prod-home-97",
+    "id": "prod-home-1780316210246-2762-5",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
     "name": "Fabric Bags & Jute Bags - Variant 6",
@@ -4601,7 +4626,7 @@ const productsData = [
       "Offers both functionality and a modern aesthetic appeal",
       "Reusable and sustainable eco-friendly materials"
     ],
-    "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/WCP-Hendeer23-Duffel-018-Edit.webp",
+    "image": "/NEW_HOME_DECOR/6.final bags/80e56b56368c2627aa23117b4916bcf4.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customized printing options available",
@@ -4609,7 +4634,7 @@ const productsData = [
     ]
   },
   {
-    "id": "prod-home-98",
+    "id": "prod-home-1780316210247-3814-6",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
     "name": "Fabric Bags & Jute Bags - Variant 7",
@@ -4620,7 +4645,7 @@ const productsData = [
       "Offers both functionality and a modern aesthetic appeal",
       "Reusable and sustainable eco-friendly materials"
     ],
-    "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/WhatsApp_Image_2025-12-25_at_6.33.32_PM_1.webp",
+    "image": "/NEW_HOME_DECOR/6.final bags/81I+5uFef8L.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customized printing options available",
@@ -4628,7 +4653,7 @@ const productsData = [
     ]
   },
   {
-    "id": "prod-home-99",
+    "id": "prod-home-1780316210247-5180-7",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
     "name": "Fabric Bags & Jute Bags - Variant 8",
@@ -4639,7 +4664,7 @@ const productsData = [
       "Offers both functionality and a modern aesthetic appeal",
       "Reusable and sustainable eco-friendly materials"
     ],
-    "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/WhatsApp_Image_2026-01-06_at_3.39.00_PM.webp",
+    "image": "/NEW_HOME_DECOR/6.final bags/9dc860786d547f8b1a5ccde1bd500661.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customized printing options available",
@@ -4647,7 +4672,7 @@ const productsData = [
     ]
   },
   {
-    "id": "prod-home-100",
+    "id": "prod-home-1780316210251-861-8",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
     "name": "Fabric Bags & Jute Bags - Variant 9",
@@ -4658,7 +4683,7 @@ const productsData = [
       "Offers both functionality and a modern aesthetic appeal",
       "Reusable and sustainable eco-friendly materials"
     ],
-    "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/WhatsApp_Image_2026-01-10_at_5.55.20_PM.webp",
+    "image": "/NEW_HOME_DECOR/6.final bags/a9af99fbc0b1781bf0e3695a0459698a.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customized printing options available",
@@ -4666,7 +4691,7 @@ const productsData = [
     ]
   },
   {
-    "id": "prod-home-101",
+    "id": "prod-home-1780316210252-3566-9",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
     "name": "Fabric Bags & Jute Bags - Variant 10",
@@ -4677,7 +4702,7 @@ const productsData = [
       "Offers both functionality and a modern aesthetic appeal",
       "Reusable and sustainable eco-friendly materials"
     ],
-    "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/WhatsApp_Image_2026-01-17_at_5.02.21_PM.webp",
+    "image": "/NEW_HOME_DECOR/6.final bags/ad5f0353a9f6cbe46a21a331d0835ce1.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customized printing options available",
@@ -4685,7 +4710,7 @@ const productsData = [
     ]
   },
   {
-    "id": "prod-home-102",
+    "id": "prod-home-1780316210253-2011-10",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
     "name": "Fabric Bags & Jute Bags - Variant 11",
@@ -4696,121 +4721,7 @@ const productsData = [
       "Offers both functionality and a modern aesthetic appeal",
       "Reusable and sustainable eco-friendly materials"
     ],
-    "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/WhatsApp_Image_2026-03-28_at_2.38.16_PM_1.webp",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Customized printing options available",
-      "Perfect sustainable packaging solution for businesses and personal use"
-    ]
-  },
-  {
-    "id": "prod-home-103",
-    "category": "home-decor",
-    "subCategory": "Fabric Bags & Jute Bags",
-    "name": "Fabric Bags & Jute Bags - Variant 12",
-    "desc": "FABRIC BAGS & JUTE BAGS\nPremium-quality fabric and jute bags designed for durability, style, and eco-friendly everyday use. Manufactured from reusable and sustainable materials, these bags are ideal for shopping, gifting, promotions, packaging, retail, and corporate applications.",
-    "specs": "OPTIONS: Available in a wide range of sizes, colors, patterns",
-    "features": [
-      "Strong handles, superior stitching, and elegant finishing",
-      "Offers both functionality and a modern aesthetic appeal",
-      "Reusable and sustainable eco-friendly materials"
-    ],
-    "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/WhatsApp_Image_2026-03-28_at_2.38.17_PM_3.webp",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Customized printing options available",
-      "Perfect sustainable packaging solution for businesses and personal use"
-    ]
-  },
-  {
-    "id": "prod-home-104",
-    "category": "home-decor",
-    "subCategory": "Fabric Bags & Jute Bags",
-    "name": "Fabric Bags & Jute Bags - Variant 13",
-    "desc": "FABRIC BAGS & JUTE BAGS\nPremium-quality fabric and jute bags designed for durability, style, and eco-friendly everyday use. Manufactured from reusable and sustainable materials, these bags are ideal for shopping, gifting, promotions, packaging, retail, and corporate applications.",
-    "specs": "OPTIONS: Available in a wide range of sizes, colors, patterns",
-    "features": [
-      "Strong handles, superior stitching, and elegant finishing",
-      "Offers both functionality and a modern aesthetic appeal",
-      "Reusable and sustainable eco-friendly materials"
-    ],
-    "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/Wholesale-Custom-logo-Hard-Fabric-Tote-Cotton-Reusable-Grocery-Shopping-High-Quality-Canvas-Bag-With-Custom-Design.avif",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Customized printing options available",
-      "Perfect sustainable packaging solution for businesses and personal use"
-    ]
-  },
-  {
-    "id": "prod-home-105",
-    "category": "home-decor",
-    "subCategory": "Fabric Bags & Jute Bags",
-    "name": "Fabric Bags & Jute Bags - Variant 14",
-    "desc": "FABRIC BAGS & JUTE BAGS\nPremium-quality fabric and jute bags designed for durability, style, and eco-friendly everyday use. Manufactured from reusable and sustainable materials, these bags are ideal for shopping, gifting, promotions, packaging, retail, and corporate applications.",
-    "specs": "OPTIONS: Available in a wide range of sizes, colors, patterns",
-    "features": [
-      "Strong handles, superior stitching, and elegant finishing",
-      "Offers both functionality and a modern aesthetic appeal",
-      "Reusable and sustainable eco-friendly materials"
-    ],
-    "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/ccaf53a73848710c15da9213abe10eae672bc480_600_600_fill.jpg",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Customized printing options available",
-      "Perfect sustainable packaging solution for businesses and personal use"
-    ]
-  },
-  {
-    "id": "prod-home-106",
-    "category": "home-decor",
-    "subCategory": "Fabric Bags & Jute Bags",
-    "name": "Fabric Bags & Jute Bags - Variant 15",
-    "desc": "FABRIC BAGS & JUTE BAGS\nPremium-quality fabric and jute bags designed for durability, style, and eco-friendly everyday use. Manufactured from reusable and sustainable materials, these bags are ideal for shopping, gifting, promotions, packaging, retail, and corporate applications.",
-    "specs": "OPTIONS: Available in a wide range of sizes, colors, patterns",
-    "features": [
-      "Strong handles, superior stitching, and elegant finishing",
-      "Offers both functionality and a modern aesthetic appeal",
-      "Reusable and sustainable eco-friendly materials"
-    ],
-    "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/empty-wine-bottles-wooden-cellar_449849-48912.avif",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Customized printing options available",
-      "Perfect sustainable packaging solution for businesses and personal use"
-    ]
-  },
-  {
-    "id": "prod-home-107",
-    "category": "home-decor",
-    "subCategory": "Fabric Bags & Jute Bags",
-    "name": "Fabric Bags & Jute Bags - Variant 16",
-    "desc": "FABRIC BAGS & JUTE BAGS\nPremium-quality fabric and jute bags designed for durability, style, and eco-friendly everyday use. Manufactured from reusable and sustainable materials, these bags are ideal for shopping, gifting, promotions, packaging, retail, and corporate applications.",
-    "specs": "OPTIONS: Available in a wide range of sizes, colors, patterns",
-    "features": [
-      "Strong handles, superior stitching, and elegant finishing",
-      "Offers both functionality and a modern aesthetic appeal",
-      "Reusable and sustainable eco-friendly materials"
-    ],
-    "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/reusuable-shopping-bags.webp",
-    "priceRange": "Project Quote",
-    "keyPoints": [
-      "Customized printing options available",
-      "Perfect sustainable packaging solution for businesses and personal use"
-    ]
-  },
-  {
-    "id": "prod-home-108",
-    "category": "home-decor",
-    "subCategory": "Fabric Bags & Jute Bags",
-    "name": "Fabric Bags & Jute Bags - Variant 17",
-    "desc": "FABRIC BAGS & JUTE BAGS\nPremium-quality fabric and jute bags designed for durability, style, and eco-friendly everyday use. Manufactured from reusable and sustainable materials, these bags are ideal for shopping, gifting, promotions, packaging, retail, and corporate applications.",
-    "specs": "OPTIONS: Available in a wide range of sizes, colors, patterns",
-    "features": [
-      "Strong handles, superior stitching, and elegant finishing",
-      "Offers both functionality and a modern aesthetic appeal",
-      "Reusable and sustainable eco-friendly materials"
-    ],
-    "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/stb004-front-img-black-500x500.webp",
+    "image": "/NEW_HOME_DECOR/6.final bags/ccaf53a73848710c15da9213abe10eae672bc480_600_600_fill.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customized printing options available",

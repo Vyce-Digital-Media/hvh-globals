@@ -8,7 +8,7 @@ const Stats = () => {
     { icon: <Globe size={24} />, value: 15, suffix: '+', label: 'Countries Served' },
     { icon: <Package size={24} />, value: 1000, suffix: '+', label: 'Products Exported' },
     { icon: <Clock size={24} />, value: 15, suffix: '+', label: 'Years of Expertise' },
-    { icon: <Users size={24} />, value: 500, suffix: '+', label: 'Satisfied Clients' },
+    { icon: <Users size={24} />, value: 500, suffix: '+', label: 'Satisfied Clients Nationally' },
   ];
 
   return (
