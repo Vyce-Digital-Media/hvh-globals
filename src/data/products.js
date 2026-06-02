@@ -377,7 +377,7 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Ehv Cables - Variant 1",
-    "desc": "EHV CABLES (EXTRA HIGH VOLTAGE CABLES)\nHVH is under technical collaboration with BRUGG to manufacture EHV cables upto 400 kV.\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered if required.",
+    "desc": "EHV CABLES (EXTRA HIGH VOLTAGE CABLES)\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered if required.",
     "specs": "VOLTAGE RATING: 66 kV to 400 kV\nCONDUCTOR: Copper/Aluminium (Stranded Compacted Circular or Segmented)/Enameled Copper\nINSULATION: Extruded Super Clean XLPE Layer",
     "features": [
       "PRODUCT RANGE: EHV Cables up to 2500 sq.mm.",
@@ -395,7 +395,7 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Ehv Cables - Variant 2",
-    "desc": "EHV CABLES (EXTRA HIGH VOLTAGE CABLES)\nHVH is under technical collaboration with BRUGG to manufacture EHV cables upto 400 kV.\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered if required.",
+    "desc": "EHV CABLES (EXTRA HIGH VOLTAGE CABLES)\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered if required.",
     "specs": "VOLTAGE RATING: 66 kV to 400 kV\nCONDUCTOR: Copper/Aluminium (Stranded Compacted Circular or Segmented)/Enameled Copper\nINSULATION: Extruded Super Clean XLPE Layer",
     "features": [
       "PRODUCT RANGE: EHV Cables up to 2500 sq.mm.",
@@ -413,7 +413,7 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Ehv Cables - Variant 3",
-    "desc": "EHV CABLES (EXTRA HIGH VOLTAGE CABLES)\nHVH is under technical collaboration with BRUGG to manufacture EHV cables upto 400 kV.\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered if required.",
+    "desc": "EHV CABLES (EXTRA HIGH VOLTAGE CABLES)\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered if required.",
     "specs": "VOLTAGE RATING: 66 kV to 400 kV\nCONDUCTOR: Copper/Aluminium (Stranded Compacted Circular or Segmented)/Enameled Copper\nINSULATION: Extruded Super Clean XLPE Layer",
     "features": [
       "PRODUCT RANGE: EHV Cables up to 2500 sq.mm.",
@@ -2639,7 +2639,7 @@ const productsData = [
       "High absorbency, softness, durability",
       "Durable for hotel use"
     ],
-    "image": "/HOME/3. TOWELS & BATH ROB/305e7cd9d70cd3b51b950744cda4471a.jpg",
+    "image": "/HOME_DECOR/towels_bathrobes/towels_bathrobes-1.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Logo & Designs Customization Available (embroidery & branding)",
@@ -2658,7 +2658,7 @@ const productsData = [
       "High absorbency, softness, durability",
       "Durable for hotel use"
     ],
-    "image": "/HOME/3. TOWELS & BATH ROB/6831a67ed0ca5c1c1308211b5f776098_3f3e0cfc-d64e-46b0-a871-9f6a4e95b4bd_large.jpg",
+    "image": "/HOME_DECOR/towels_bathrobes/towels_bathrobes-2.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Logo & Designs Customization Available (embroidery & branding)",
@@ -2677,7 +2677,7 @@ const productsData = [
       "High absorbency, softness, durability",
       "Durable for hotel use"
     ],
-    "image": "/HOME/3. TOWELS & BATH ROB/68842654a2d6d041c5a2f489f8f3c85d.jpg",
+    "image": "/HOME_DECOR/towels_bathrobes/towels_bathrobes-3.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Logo & Designs Customization Available (embroidery & branding)",
@@ -2696,7 +2696,7 @@ const productsData = [
       "High absorbency, softness, durability",
       "Durable for hotel use"
     ],
-    "image": "/HOME/3. TOWELS & BATH ROB/710839d0239cba16a6263ade3b938279.jpg",
+    "image": "/HOME_DECOR/towels_bathrobes/towels_bathrobes-4.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Logo & Designs Customization Available (embroidery & branding)",
@@ -2715,7 +2715,7 @@ const productsData = [
       "High absorbency, softness, durability",
       "Durable for hotel use"
     ],
-    "image": "/HOME/3. TOWELS & BATH ROB/80282f0012898a1d617cd5a1b1f95e8b.jpg",
+    "image": "/HOME_DECOR/towels_bathrobes/towels_bathrobes-5.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Logo & Designs Customization Available (embroidery & branding)",
@@ -2734,7 +2734,7 @@ const productsData = [
       "High absorbency, softness, durability",
       "Durable for hotel use"
     ],
-    "image": "/HOME/3. TOWELS & BATH ROB/c66e579febabb049654f11a4526769d1.jpg",
+    "image": "/HOME_DECOR/towels_bathrobes/towels_bathrobes-6.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Logo & Designs Customization Available (embroidery & branding)",
@@ -2753,7 +2753,7 @@ const productsData = [
       "High absorbency, softness, durability",
       "Durable for hotel use"
     ],
-    "image": "/HOME/3. TOWELS & BATH ROB/caa246172a792e892705f32476001f4a.jpg",
+    "image": "/HOME_DECOR/towels_bathrobes/towels_bathrobes-7.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Logo & Designs Customization Available (embroidery & branding)",
@@ -2772,7 +2772,7 @@ const productsData = [
       "High absorbency, softness, durability",
       "Durable for hotel use"
     ],
-    "image": "/HOME/3. TOWELS & BATH ROB/fb02b5aa19fd1c5f069b0c6ec4cb36e0.jpg",
+    "image": "/HOME_DECOR/towels_bathrobes/towels_bathrobes-8.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Logo & Designs Customization Available (embroidery & branding)",
@@ -2791,7 +2791,7 @@ const productsData = [
       "High absorbency, softness, durability",
       "Durable for hotel use"
     ],
-    "image": "/HOME/3. TOWELS & BATH ROB/hotel-bath-robe.jpg",
+    "image": "/HOME_DECOR/towels_bathrobes/towels_bathrobes-9.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Logo & Designs Customization Available (embroidery & branding)",
@@ -2810,7 +2810,7 @@ const productsData = [
       "High absorbency, softness, durability",
       "Durable for hotel use"
     ],
-    "image": "/HOME/3. TOWELS & BATH ROB/luxury-white-bathrobe-slippers-towels-set.webp",
+    "image": "/HOME_DECOR/towels_bathrobes/towels_bathrobes-10.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Logo & Designs Customization Available (embroidery & branding)",
@@ -2829,7 +2829,7 @@ const productsData = [
       "High absorbency, softness, durability",
       "Durable for hotel use"
     ],
-    "image": "/HOME/3. TOWELS & BATH ROB/premium-bath-linen-collection-with-proper-scale.webp",
+    "image": "/HOME_DECOR/towels_bathrobes/towels_bathrobes-11.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Logo & Designs Customization Available (embroidery & branding)",
@@ -2848,7 +2848,7 @@ const productsData = [
       "Rugs can be made of any size",
       "All handmade rugs"
     ],
-    "image": "/HOME/6. CARPET & RUGS/81ETX9pdK6L._AC_UF894,1000_QL80_.jpg",
+    "image": "/HOME_DECOR/carpets_rugs/carpet_rugs-1.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Available in multiple sizes, patterns, textures, and colour combinations",
@@ -2867,7 +2867,7 @@ const productsData = [
       "Rugs can be made of any size",
       "All handmade rugs"
     ],
-    "image": "/HOME/6. CARPET & RUGS/WhatsApp Image 2026-01324-21 at 5.41.05 PM.jpeg",
+    "image": "/HOME_DECOR/carpets_rugs/carpet_rugs-2.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Available in multiple sizes, patterns, textures, and colour combinations",
@@ -2886,7 +2886,7 @@ const productsData = [
       "Rugs can be made of any size",
       "All handmade rugs"
     ],
-    "image": "/HOME/6. CARPET & RUGS/WhatsApp Image 2026-014-21 at 5.41.05 PM.jpeg",
+    "image": "/HOME_DECOR/carpets_rugs/carpet_rugs-3.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Available in multiple sizes, patterns, textures, and colour combinations",
@@ -2905,7 +2905,7 @@ const productsData = [
       "Rugs can be made of any size",
       "All handmade rugs"
     ],
-    "image": "/HOME/6. CARPET & RUGS/WhatsApp Image 2026-04-21 at 5.41.05 PM.jpeg",
+    "image": "/HOME_DECOR/carpets_rugs/carpet_rugs-4.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Available in multiple sizes, patterns, textures, and colour combinations",
@@ -2924,7 +2924,7 @@ const productsData = [
       "Rugs can be made of any size",
       "All handmade rugs"
     ],
-    "image": "/HOME/6. CARPET & RUGS/arnabohorug.jpg",
+    "image": "/HOME_DECOR/carpets_rugs/carpet_rugs-5.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Available in multiple sizes, patterns, textures, and colour combinations",
@@ -2943,7 +2943,7 @@ const productsData = [
       "Rugs can be made of any size",
       "All handmade rugs"
     ],
-    "image": "/HOME/6. CARPET & RUGS/images.jpg",
+    "image": "/HOME_DECOR/carpets_rugs/carpet_rugs-6.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Available in multiple sizes, patterns, textures, and colour combinations",
@@ -2963,7 +2963,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME/7.WALLARTS & WALLPAPER/Untitled (3).png",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-1.png",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -2983,7 +2983,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-17 at 10.06.41 PM (1).jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-2.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3003,7 +3003,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-17 at 10.06.41 PM.jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-3.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3023,7 +3023,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-18 at 5.15.40 PM.jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-4.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3043,7 +3043,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-18 at 5.15.42 PM.jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-5.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3063,7 +3063,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-20 at 11.16.16 AM (1).jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-6.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3083,7 +3083,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-20 at 11.16.16 AM (2).jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-7.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3103,7 +3103,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-20 at 11.16.16 AM.jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-8.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3123,7 +3123,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-20 at 11.16.18 AM (2).jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-9.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3143,7 +3143,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-20 at 11.16.18 AM (3).jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-10.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3163,7 +3163,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-20 at 11.16.18 AM.jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-11.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3183,7 +3183,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-20 at 11.16.19 AM (1).jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-12.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3203,7 +3203,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-20 at 11.16.21 AM (1).jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-13.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3223,7 +3223,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-20 at 11.16.22 AM.jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-14.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3243,7 +3243,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-20 at 11.16.23 AM (1).jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-15.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3263,7 +3263,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-20 at 11.16.23 AM (2).jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-16.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3283,7 +3283,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-20 at 11.16.23 AM.jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-17.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3304,7 +3304,7 @@ const productsData = [
       "Elegant Designs & Patterns",
       "Easy Wash & Maintenance, Colour Fastness"
     ],
-    "image": "/NEW_HOME_DECOR/1.final BEDDING/1st.png",
+    "image": "/HOME_DECOR/bedding/bedding-1.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customization Available",
@@ -3326,7 +3326,7 @@ const productsData = [
       "Elegant Designs & Patterns",
       "Easy Wash & Maintenance, Colour Fastness"
     ],
-    "image": "/NEW_HOME_DECOR/1.final BEDDING/Hotel-Curtains-Dubai-1.jpg",
+    "image": "/HOME_DECOR/bedding/bedding-2.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customization Available",
@@ -3348,7 +3348,7 @@ const productsData = [
       "Elegant Designs & Patterns",
       "Easy Wash & Maintenance, Colour Fastness"
     ],
-    "image": "/NEW_HOME_DECOR/1.final BEDDING/Untitled - June 01, 2026 at 10.53.12 (5).png",
+    "image": "/HOME_DECOR/bedding/bedding-3.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customization Available",
@@ -3370,7 +3370,7 @@ const productsData = [
       "Elegant Designs & Patterns",
       "Easy Wash & Maintenance, Colour Fastness"
     ],
-    "image": "/NEW_HOME_DECOR/1.final BEDDING/WhatsApp Image 2026-04-21 at 3.16.07 PM.jpeg",
+    "image": "/HOME_DECOR/bedding/bedding-4.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customization Available",
@@ -3392,7 +3392,7 @@ const productsData = [
       "Elegant Designs & Patterns",
       "Easy Wash & Maintenance, Colour Fastness"
     ],
-    "image": "/NEW_HOME_DECOR/1.final BEDDING/WhatsApp Image 2026-06-01 at 10.40.11 AM.jpeg",
+    "image": "/HOME_DECOR/bedding/bedding-5.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customization Available",
@@ -3414,7 +3414,7 @@ const productsData = [
       "Elegant Designs & Patterns",
       "Easy Wash & Maintenance, Colour Fastness"
     ],
-    "image": "/NEW_HOME_DECOR/1.final BEDDING/WhatsApp Image 2026-06-01 at 10.40.30 AM (2).jpeg",
+    "image": "/HOME_DECOR/bedding/bedding-6.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customization Available",
@@ -3436,7 +3436,7 @@ const productsData = [
       "Elegant Designs & Patterns",
       "Easy Wash & Maintenance, Colour Fastness"
     ],
-    "image": "/NEW_HOME_DECOR/1.final BEDDING/WhatsApp Image 2026-06-01 at 10.40.32 AM (1).jpeg",
+    "image": "/HOME_DECOR/bedding/bedding-7.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customization Available",
@@ -3458,7 +3458,7 @@ const productsData = [
       "Elegant Designs & Patterns",
       "Easy Wash & Maintenance, Colour Fastness"
     ],
-    "image": "/NEW_HOME_DECOR/1.final BEDDING/WhatsApp Image 2026-06-01 at 10.40.47 AM.jpeg",
+    "image": "/HOME_DECOR/bedding/bedding-8.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customization Available",
@@ -3480,7 +3480,7 @@ const productsData = [
       "Elegant Designs & Patterns",
       "Easy Wash & Maintenance, Colour Fastness"
     ],
-    "image": "/NEW_HOME_DECOR/1.final BEDDING/WhatsApp Image 2026-06-01 at 10.40.48 AM (1).jpeg",
+    "image": "/HOME_DECOR/bedding/bedding-9.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customization Available",
@@ -3502,7 +3502,7 @@ const productsData = [
       "Elegant Designs & Patterns",
       "Easy Wash & Maintenance, Colour Fastness"
     ],
-    "image": "/NEW_HOME_DECOR/1.final BEDDING/WhatsApp Image 2026-06-01 at 10.40.49 AM.jpeg",
+    "image": "/HOME_DECOR/bedding/bedding-10.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customization Available",
@@ -3524,7 +3524,7 @@ const productsData = [
       "Elegant Designs & Patterns",
       "Easy Wash & Maintenance, Colour Fastness"
     ],
-    "image": "/NEW_HOME_DECOR/1.final BEDDING/d570a068d4422011e4f99c52649ad797.jpg",
+    "image": "/HOME_DECOR/bedding/bedding-11.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customization Available",
@@ -3545,7 +3545,7 @@ const productsData = [
       "Elegant patterns and modern designs",
       "Easy maintenance & long-lasting colour"
     ],
-    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/Screenshot_21-4-2026_161120_.jpeg",
+    "image": "/HOME_DECOR/cushions_covers/cushions_covers-1.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for residential & hospitality projects",
@@ -3566,7 +3566,7 @@ const productsData = [
       "Elegant patterns and modern designs",
       "Easy maintenance & long-lasting colour"
     ],
-    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/Screenshot_21-4-2026_16912_.jpeg",
+    "image": "/HOME_DECOR/cushions_covers/cushions_covers-2.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for residential & hospitality projects",
@@ -3587,7 +3587,7 @@ const productsData = [
       "Elegant patterns and modern designs",
       "Easy maintenance & long-lasting colour"
     ],
-    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/Untitled (4).png",
+    "image": "/HOME_DECOR/cushions_covers/cushions_covers-3.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for residential & hospitality projects",
@@ -3608,7 +3608,7 @@ const productsData = [
       "Elegant patterns and modern designs",
       "Easy maintenance & long-lasting colour"
     ],
-    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/WhatsApp Image 2026-04-18 at 5.24.47 PM (1).jpeg",
+    "image": "/HOME_DECOR/cushions_covers/cushions_covers-4.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for residential & hospitality projects",
@@ -3629,7 +3629,7 @@ const productsData = [
       "Elegant patterns and modern designs",
       "Easy maintenance & long-lasting colour"
     ],
-    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/WhatsApp Image 2026-04-19 at 11.41.51 AM.jpeg",
+    "image": "/HOME_DECOR/cushions_covers/cushions_covers-5.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for residential & hospitality projects",
@@ -3650,7 +3650,7 @@ const productsData = [
       "Elegant patterns and modern designs",
       "Easy maintenance & long-lasting colour"
     ],
-    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/WhatsApp Image 2026-04-20 at 11.16.24 AM (1).jpeg",
+    "image": "/HOME_DECOR/cushions_covers/cushions_covers-6.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for residential & hospitality projects",
@@ -3671,7 +3671,7 @@ const productsData = [
       "Elegant patterns and modern designs",
       "Easy maintenance & long-lasting colour"
     ],
-    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/WhatsApp Image 2026-04-20 at 11.58.12 AM (1).jpeg",
+    "image": "/HOME_DECOR/cushions_covers/cushions_covers-7.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for residential & hospitality projects",
@@ -3692,7 +3692,7 @@ const productsData = [
       "Elegant patterns and modern designs",
       "Easy maintenance & long-lasting colour"
     ],
-    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/WhatsApp Image 2026-04-20 at 11.58.12 AM.jpeg",
+    "image": "/HOME_DECOR/cushions_covers/cushions_covers-8.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for residential & hospitality projects",
@@ -3713,7 +3713,7 @@ const productsData = [
       "Elegant patterns and modern designs",
       "Easy maintenance & long-lasting colour"
     ],
-    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/WhatsApp Image 2026-04-21 at 5.46.00 PM.jpeg",
+    "image": "/HOME_DECOR/cushions_covers/cushions_covers-9.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for residential & hospitality projects",
@@ -3734,7 +3734,7 @@ const productsData = [
       "Elegant patterns and modern designs",
       "Easy maintenance & long-lasting colour"
     ],
-    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/WhatsApp Image 2026-04-21 at 5.46.02 PM.jpeg",
+    "image": "/HOME_DECOR/cushions_covers/cushions_covers-10.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for residential & hospitality projects",
@@ -3755,7 +3755,7 @@ const productsData = [
       "Elegant patterns and modern designs",
       "Easy maintenance & long-lasting colour"
     ],
-    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/WhatsApp Image 2026-06-01 at 10.40.14 AM.jpeg",
+    "image": "/HOME_DECOR/cushions_covers/cushions_covers-11.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for residential & hospitality projects",
@@ -3776,7 +3776,7 @@ const productsData = [
       "Elegant patterns and modern designs",
       "Easy maintenance & long-lasting colour"
     ],
-    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/WhatsApp Image 2026-06-01 at 10.40.22 AM.jpeg",
+    "image": "/HOME_DECOR/cushions_covers/cushions_covers-12.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for residential & hospitality projects",
@@ -3797,7 +3797,7 @@ const productsData = [
       "Elegant patterns and modern designs",
       "Easy maintenance & long-lasting colour"
     ],
-    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/WhatsApp Image 2026-06-01 at 10.40.23 AM.jpeg",
+    "image": "/HOME_DECOR/cushions_covers/cushions_covers-13.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for residential & hospitality projects",
@@ -3818,7 +3818,7 @@ const productsData = [
       "Elegant patterns and modern designs",
       "Easy maintenance & long-lasting colour"
     ],
-    "image": "/NEW_HOME_DECOR/2.Final CUSHION & COVERS/WhatsApp Image 2026-06-01 at 10.40.27 AM.jpeg",
+    "image": "/HOME_DECOR/cushions_covers/cushions_covers-14.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for residential & hospitality projects",
@@ -3839,7 +3839,7 @@ const productsData = [
       "Premium quality finish with elegant texture and rich appearance",
       "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
-    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Screenshot_21-4-2026_161610_.jpeg",
+    "image": "/HOME_DECOR/curtains/curtains-1.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Ideal for homes, hotels, and commercial interiors",
@@ -3860,7 +3860,7 @@ const productsData = [
       "Premium quality finish with elegant texture and rich appearance",
       "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
-    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Screenshot_21-4-2026_161657_.jpeg",
+    "image": "/HOME_DECOR/curtains/curtains-2.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Ideal for homes, hotels, and commercial interiors",
@@ -3881,7 +3881,7 @@ const productsData = [
       "Premium quality finish with elegant texture and rich appearance",
       "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
-    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Screenshot_21-4-2026_161944_.jpeg",
+    "image": "/HOME_DECOR/curtains/curtains-3.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Ideal for homes, hotels, and commercial interiors",
@@ -3902,7 +3902,7 @@ const productsData = [
       "Premium quality finish with elegant texture and rich appearance",
       "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
-    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Screenshot_21-4-2026_162029_.jpeg",
+    "image": "/HOME_DECOR/curtains/curtains-4.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Ideal for homes, hotels, and commercial interiors",
@@ -3923,7 +3923,7 @@ const productsData = [
       "Premium quality finish with elegant texture and rich appearance",
       "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
-    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Screenshot_21-4-2026_162322_.jpeg",
+    "image": "/HOME_DECOR/curtains/curtains-5.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Ideal for homes, hotels, and commercial interiors",
@@ -3944,7 +3944,7 @@ const productsData = [
       "Premium quality finish with elegant texture and rich appearance",
       "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
-    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Screenshot_21-4-2026_162543_.jpeg",
+    "image": "/HOME_DECOR/curtains/curtains-6.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Ideal for homes, hotels, and commercial interiors",
@@ -3965,7 +3965,7 @@ const productsData = [
       "Premium quality finish with elegant texture and rich appearance",
       "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
-    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Untitled - June 01, 2026 at 10.53.12 (1).png",
+    "image": "/HOME_DECOR/curtains/curtains-7.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Ideal for homes, hotels, and commercial interiors",
@@ -3986,7 +3986,7 @@ const productsData = [
       "Premium quality finish with elegant texture and rich appearance",
       "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
-    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Untitled - June 01, 2026 at 10.53.12 (11).png",
+    "image": "/HOME_DECOR/curtains/curtains-8.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Ideal for homes, hotels, and commercial interiors",
@@ -4007,7 +4007,7 @@ const productsData = [
       "Premium quality finish with elegant texture and rich appearance",
       "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
-    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Untitled - June 01, 2026 at 10.53.12 (2).png",
+    "image": "/HOME_DECOR/curtains/curtains-9.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Ideal for homes, hotels, and commercial interiors",
@@ -4028,7 +4028,7 @@ const productsData = [
       "Premium quality finish with elegant texture and rich appearance",
       "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
-    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Untitled - June 01, 2026 at 10.53.12 (3).png",
+    "image": "/HOME_DECOR/curtains/curtains-10.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Ideal for homes, hotels, and commercial interiors",
@@ -4049,7 +4049,7 @@ const productsData = [
       "Premium quality finish with elegant texture and rich appearance",
       "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
-    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Untitled - June 01, 2026 at 10.53.12 (6).png",
+    "image": "/HOME_DECOR/curtains/curtains-11.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Ideal for homes, hotels, and commercial interiors",
@@ -4070,7 +4070,7 @@ const productsData = [
       "Premium quality finish with elegant texture and rich appearance",
       "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
-    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Untitled - June 01, 2026 at 10.53.12 (7).png",
+    "image": "/HOME_DECOR/curtains/curtains-12.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Ideal for homes, hotels, and commercial interiors",
@@ -4091,7 +4091,7 @@ const productsData = [
       "Premium quality finish with elegant texture and rich appearance",
       "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
-    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Untitled - June 01, 2026 at 10.53.12 (9).png",
+    "image": "/HOME_DECOR/curtains/curtains-13.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Ideal for homes, hotels, and commercial interiors",
@@ -4112,7 +4112,7 @@ const productsData = [
       "Premium quality finish with elegant texture and rich appearance",
       "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
-    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/Untitled - June 01, 2026 at 10.53.12.png",
+    "image": "/HOME_DECOR/curtains/curtains-14.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Ideal for homes, hotels, and commercial interiors",
@@ -4133,7 +4133,7 @@ const productsData = [
       "Premium quality finish with elegant texture and rich appearance",
       "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
-    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/WhatsApp Image 2026-04-20 at 11.16.15 AM (1).jpeg",
+    "image": "/HOME_DECOR/curtains/curtains-15.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Ideal for homes, hotels, and commercial interiors",
@@ -4154,7 +4154,7 @@ const productsData = [
       "Premium quality finish with elegant texture and rich appearance",
       "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
-    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/WhatsApp Image 2026-04-20 at 11.16.33 AM (1).jpeg",
+    "image": "/HOME_DECOR/curtains/curtains-16.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Ideal for homes, hotels, and commercial interiors",
@@ -4175,7 +4175,7 @@ const productsData = [
       "Premium quality finish with elegant texture and rich appearance",
       "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
-    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/WhatsApp Image 2026-04-20 at 11.16.34 AM (1).jpeg",
+    "image": "/HOME_DECOR/curtains/curtains-17.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Ideal for homes, hotels, and commercial interiors",
@@ -4196,7 +4196,7 @@ const productsData = [
       "Premium quality finish with elegant texture and rich appearance",
       "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
-    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/WhatsApp Image 2026-06-01 at 10.40.19 AM.jpeg",
+    "image": "/HOME_DECOR/curtains/curtains-18.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Ideal for homes, hotels, and commercial interiors",
@@ -4217,7 +4217,7 @@ const productsData = [
       "Premium quality finish with elegant texture and rich appearance",
       "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
-    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/WhatsApp Image 2026-06-01 at 10.40.25 AM.jpeg",
+    "image": "/HOME_DECOR/curtains/curtains-19.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Ideal for homes, hotels, and commercial interiors",
@@ -4238,7 +4238,7 @@ const productsData = [
       "Premium quality finish with elegant texture and rich appearance",
       "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
-    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/WhatsApp Image 2026-06-01 at 10.40.38 AM (1).jpeg",
+    "image": "/HOME_DECOR/curtains/curtains-20.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Ideal for homes, hotels, and commercial interiors",
@@ -4259,7 +4259,7 @@ const productsData = [
       "Premium quality finish with elegant texture and rich appearance",
       "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
-    "image": "/NEW_HOME_DECOR/4. final CURTAIN FABRICS - Copy/WhatsApp Image 2026-06-01 at 10.40.39 AM (1).jpeg",
+    "image": "/HOME_DECOR/curtains/curtains-21.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Ideal for homes, hotels, and commercial interiors",
@@ -4280,7 +4280,7 @@ const productsData = [
       "Easy to clean and maintain",
       "Available in fire-retardant and stain-resistant options"
     ],
-    "image": "/NEW_HOME_DECOR/5.final  SOFA & CHAIR UPHOLSTARY/Picture1.jpg",
+    "image": "/HOME_DECOR/upholstery/upholstery-1.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
@@ -4301,7 +4301,7 @@ const productsData = [
       "Easy to clean and maintain",
       "Available in fire-retardant and stain-resistant options"
     ],
-    "image": "/NEW_HOME_DECOR/5.final  SOFA & CHAIR UPHOLSTARY/Screenshot_21-4-2026_161843_.jpeg",
+    "image": "/HOME_DECOR/upholstery/upholstery-2.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
@@ -4322,7 +4322,7 @@ const productsData = [
       "Easy to clean and maintain",
       "Available in fire-retardant and stain-resistant options"
     ],
-    "image": "/NEW_HOME_DECOR/5.final  SOFA & CHAIR UPHOLSTARY/Untitled - June 01, 2026 at 10.53.12 (13).png",
+    "image": "/HOME_DECOR/upholstery/upholstery-3.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
@@ -4343,7 +4343,7 @@ const productsData = [
       "Easy to clean and maintain",
       "Available in fire-retardant and stain-resistant options"
     ],
-    "image": "/NEW_HOME_DECOR/5.final  SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-18 at 5.24.48 PM (1).jpeg",
+    "image": "/HOME_DECOR/upholstery/upholstery-4.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
@@ -4364,7 +4364,7 @@ const productsData = [
       "Easy to clean and maintain",
       "Available in fire-retardant and stain-resistant options"
     ],
-    "image": "/NEW_HOME_DECOR/5.final  SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.26 AM (2).jpeg",
+    "image": "/HOME_DECOR/upholstery/upholstery-5.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
@@ -4385,7 +4385,7 @@ const productsData = [
       "Easy to clean and maintain",
       "Available in fire-retardant and stain-resistant options"
     ],
-    "image": "/NEW_HOME_DECOR/5.final  SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.28 AM (2).jpeg",
+    "image": "/HOME_DECOR/upholstery/upholstery-6.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
@@ -4406,7 +4406,7 @@ const productsData = [
       "Easy to clean and maintain",
       "Available in fire-retardant and stain-resistant options"
     ],
-    "image": "/NEW_HOME_DECOR/5.final  SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.28 AM.jpeg",
+    "image": "/HOME_DECOR/upholstery/upholstery-7.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
@@ -4427,7 +4427,7 @@ const productsData = [
       "Easy to clean and maintain",
       "Available in fire-retardant and stain-resistant options"
     ],
-    "image": "/NEW_HOME_DECOR/5.final  SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.29 AM.jpeg",
+    "image": "/HOME_DECOR/upholstery/upholstery-8.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
@@ -4448,7 +4448,7 @@ const productsData = [
       "Easy to clean and maintain",
       "Available in fire-retardant and stain-resistant options"
     ],
-    "image": "/NEW_HOME_DECOR/5.final  SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.31 AM.jpeg",
+    "image": "/HOME_DECOR/upholstery/upholstery-9.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
@@ -4469,7 +4469,7 @@ const productsData = [
       "Easy to clean and maintain",
       "Available in fire-retardant and stain-resistant options"
     ],
-    "image": "/NEW_HOME_DECOR/5.final  SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-05-21 at 5.10.29 PM (1).jpeg",
+    "image": "/HOME_DECOR/upholstery/upholstery-10.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
@@ -4490,7 +4490,7 @@ const productsData = [
       "Easy to clean and maintain",
       "Available in fire-retardant and stain-resistant options"
     ],
-    "image": "/NEW_HOME_DECOR/5.final  SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-05-21 at 5.10.29 PM.jpeg",
+    "image": "/HOME_DECOR/upholstery/upholstery-11.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
@@ -4511,7 +4511,7 @@ const productsData = [
       "Easy to clean and maintain",
       "Available in fire-retardant and stain-resistant options"
     ],
-    "image": "/NEW_HOME_DECOR/5.final  SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-06-01 at 10.40.30 AM (1).jpeg",
+    "image": "/HOME_DECOR/upholstery/upholstery-12.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
@@ -4531,7 +4531,7 @@ const productsData = [
       "Offers both functionality and a modern aesthetic appeal",
       "Reusable and sustainable eco-friendly materials"
     ],
-    "image": "/NEW_HOME_DECOR/6.final bags/51-AlNO9owL._AC_UL495_SR435,495_.jpg",
+    "image": "/HOME_DECOR/bags/bags-1.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customized printing options available",
@@ -4550,7 +4550,7 @@ const productsData = [
       "Offers both functionality and a modern aesthetic appeal",
       "Reusable and sustainable eco-friendly materials"
     ],
-    "image": "/NEW_HOME_DECOR/6.final bags/536639da509162d8ef3b8287f8138834.jpg",
+    "image": "/HOME_DECOR/bags/bags-2.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customized printing options available",
@@ -4569,7 +4569,7 @@ const productsData = [
       "Offers both functionality and a modern aesthetic appeal",
       "Reusable and sustainable eco-friendly materials"
     ],
-    "image": "/NEW_HOME_DECOR/6.final bags/6-Benefits-of-Eco-friendly-Jute-Bags-Copy_3.jpg",
+    "image": "/HOME_DECOR/bags/bags-3.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customized printing options available",
@@ -4588,7 +4588,7 @@ const productsData = [
       "Offers both functionality and a modern aesthetic appeal",
       "Reusable and sustainable eco-friendly materials"
     ],
-    "image": "/NEW_HOME_DECOR/6.final bags/71483Zs4lHL._AC_UY1100_.jpg",
+    "image": "/HOME_DECOR/bags/bags-4.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customized printing options available",
@@ -4607,7 +4607,7 @@ const productsData = [
       "Offers both functionality and a modern aesthetic appeal",
       "Reusable and sustainable eco-friendly materials"
     ],
-    "image": "/NEW_HOME_DECOR/6.final bags/71CRVdF42wL._AC_UY1100_.jpg",
+    "image": "/HOME_DECOR/bags/bags-5.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customized printing options available",
@@ -4626,7 +4626,7 @@ const productsData = [
       "Offers both functionality and a modern aesthetic appeal",
       "Reusable and sustainable eco-friendly materials"
     ],
-    "image": "/NEW_HOME_DECOR/6.final bags/80e56b56368c2627aa23117b4916bcf4.jpg",
+    "image": "/HOME_DECOR/bags/bags-6.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customized printing options available",
@@ -4645,7 +4645,7 @@ const productsData = [
       "Offers both functionality and a modern aesthetic appeal",
       "Reusable and sustainable eco-friendly materials"
     ],
-    "image": "/NEW_HOME_DECOR/6.final bags/81I+5uFef8L.jpg",
+    "image": "/HOME_DECOR/bags/bags-7.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customized printing options available",
@@ -4664,7 +4664,7 @@ const productsData = [
       "Offers both functionality and a modern aesthetic appeal",
       "Reusable and sustainable eco-friendly materials"
     ],
-    "image": "/NEW_HOME_DECOR/6.final bags/9dc860786d547f8b1a5ccde1bd500661.jpg",
+    "image": "/HOME_DECOR/bags/bags-8.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customized printing options available",
@@ -4683,7 +4683,7 @@ const productsData = [
       "Offers both functionality and a modern aesthetic appeal",
       "Reusable and sustainable eco-friendly materials"
     ],
-    "image": "/NEW_HOME_DECOR/6.final bags/a9af99fbc0b1781bf0e3695a0459698a.jpg",
+    "image": "/HOME_DECOR/bags/bags-9.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customized printing options available",
@@ -4702,7 +4702,7 @@ const productsData = [
       "Offers both functionality and a modern aesthetic appeal",
       "Reusable and sustainable eco-friendly materials"
     ],
-    "image": "/NEW_HOME_DECOR/6.final bags/ad5f0353a9f6cbe46a21a331d0835ce1.jpg",
+    "image": "/HOME_DECOR/bags/bags-10.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customized printing options available",
@@ -4721,7 +4721,7 @@ const productsData = [
       "Offers both functionality and a modern aesthetic appeal",
       "Reusable and sustainable eco-friendly materials"
     ],
-    "image": "/NEW_HOME_DECOR/6.final bags/ccaf53a73848710c15da9213abe10eae672bc480_600_600_fill.jpg",
+    "image": "/HOME_DECOR/bags/bags-11.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customized printing options available",

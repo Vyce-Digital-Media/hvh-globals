@@ -32,13 +32,13 @@ const TradeFairPage = () => {
       
       <div className="container mx-auto px-6 max-w-full lg:max-w-[90vw] mb-12">
         {/* Header */}
-        <div className="text-center max-w-3xl mx-auto px-4 relative z-10">
+        <div className="text-center max-w-4xl mx-auto px-4 relative z-10">
           <div className="inline-flex items-center justify-center w-16 h-16 md:w-20 md:h-20 rounded-full bg-white shadow-md text-primary mb-6 md:mb-8 border border-gray-100">
             <Camera size={32} className="md:hidden" />
             <Camera size={40} className="hidden md:block" />
           </div>
           <h1 className="text-3xl md:text-5xl font-black text-gray-900 mb-4 md:mb-6 tracking-tight uppercase">Trade Fair Participation</h1>
-          <p className="text-base md:text-xl text-gray-600 leading-relaxed font-medium">
+          <p className="text-base md:text-xl text-gray-600 leading-relaxed font-medium md:whitespace-nowrap">
             Explore our presence and engagements at global trade fairs and industry exhibitions.
           </p>
         </div>

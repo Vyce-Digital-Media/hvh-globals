@@ -51,8 +51,20 @@ const Header = () => {
   }, []);
 
   const navLinks = [
-    { name: 'TRADE FAIR', href: '/trade-fair' },
-    { name: 'ABOUT US', href: '/about' },
+    {
+      name: 'OUR COMPANY',
+      hoverOnly: true,
+      dropdown: [
+        {
+          name: 'ABOUT US',
+          href: '/about'
+        },
+        {
+          name: 'ACCREDITATIONS',
+          href: '/accreditation'
+        }
+      ]
+    },
     {
       name: 'PRODUCTS',
       hoverOnly: true, // desktop: no navigation, hover to reveal dropdown
@@ -67,6 +79,7 @@ const Header = () => {
         }
       ]
     },
+    { name: 'TRADE FAIR', href: '/trade-fair' },
     { name: 'CONTACT', href: '/contact' },
   ];
 

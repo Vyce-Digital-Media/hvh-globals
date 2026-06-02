@@ -64,7 +64,7 @@ const About = () => {
               </h3>
 
               <p className="text-primary/60 text-xl md:text-2xl font-medium leading-relaxed max-w-xl">
-                Leading the way in global exports, we specialize in high-end hospitality textiles and industrial-grade electrical solutions.
+                Leading the way in global exports, we specialize in high-end hospitality textiles and industrial-grade electrical solutionswe.
               </p>
             </motion.div>
 
