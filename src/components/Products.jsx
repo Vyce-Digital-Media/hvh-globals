@@ -13,7 +13,8 @@ const Products = () => {
       description: 'Granular supply of industrial cables, modular switches, and high-tech lighting systems sourced from top-tier global manufacturers.',
       image: cablesImg,
       icon: <Zap size={24} className="text-white" />,
-      features: ['Industrial Grade Cables', 'Modular Smart Switches', 'Designer Lighting Systems']
+      features: ['Industrial Grade Cables', 'Modular Smart Switches', 'Designer Lighting Systems'],
+      objectPosition: 'object-center'
     },
     {
       id: 'home-decor',
@@ -21,7 +22,8 @@ const Products = () => {
       description: 'Curated premium drapery, upholstery, and artisanal handicrafts. Featuring D\'Decor quality fabrics and handblock painted collections.',
       image: curtainsImg,
       icon: <Combine size={24} className="text-white" />,
-      features: ['Eco-Luxe Upholstery', 'Handblock Painted Bags', 'Luxury Bath & Bedding']
+      features: ['Eco-Luxe Upholstery', 'Handblock Painted Bags', 'Luxury Bath & Bedding'],
+      objectPosition: 'object-bottom'
     }
   ];
 
@@ -86,7 +88,7 @@ const Products = () => {
                     <img loading="lazy" decoding="async"
                       src={product.image}
                       alt={product.title}
-                      className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+                      className={`w-full h-full object-cover transition-transform duration-700 group-hover:scale-105 ${product.objectPosition || 'object-center'}`}
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-gray-900/90 via-gray-900/40 to-transparent opacity-80 mix-blend-multiply"></div>
 

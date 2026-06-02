@@ -5,7 +5,8 @@ const AccreditationPage = () => {
   const certifications = [
     { name: "FIEO RCMC", file: "FIEO RCMC", desc: "Federation of Indian Export Organisations Registration" },
     { name: "IEC Certificate", file: "IEC certificate", desc: "Importer-Exporter Code Certification" },
-    { name: "RCMC EEPC", file: "RCMC EEPC CERTIFICATE", desc: "Engineering Export Promotion Council Registration" }
+    { name: "RCMC EEPC", file: "RCMC EEPC CERTIFICATE", desc: "Engineering Export Promotion Council Registration" },
+    { name: "SGCCI Certificate", file: "SGCCI", desc: "Southern Gujarat Chamber of Commerce and Industry" }
   ];
 
   return (
