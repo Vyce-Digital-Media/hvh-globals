@@ -2,8 +2,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowUpRight, Zap, Combine } from 'lucide-react';
 import { motion } from 'framer-motion';
-import cablesImg from '../assets/images/electrical_hero.jpg';
-import curtainsImg from '../assets/images/home_decor_hero.jpg';
+import cablesImg from '../assets/images/electrical_hero.webp';
+import curtainsImg from '../assets/images/home_decor_hero.webp';
 
 const Products = () => {
   const products = [
@@ -83,7 +83,7 @@ const Products = () => {
 
                   {/* Image Container */}
                   <div className="relative h-56 overflow-hidden">
-                    <img
+                    <img loading="lazy" decoding="async"
                       src={product.image}
                       alt={product.title}
                       className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"

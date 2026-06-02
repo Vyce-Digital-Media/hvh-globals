@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Search, ShieldCheck, Package, FileCheck, Truck, CircleCheckBig } from 'lucide-react';
-import heroBgDoodle from '../assets/images/hero_bg_doodle-Cq-kX0z2.png';
+import heroBgDoodle from '../assets/images/hero_bg_doodle-Cq-kX0z2.webp';
 
 const ExportProcess = () => {
   const steps = [
@@ -48,7 +48,7 @@ const ExportProcess = () => {
               </p>
 
               <div className="relative rounded-[2rem] lg:rounded-[3rem] overflow-hidden border border-primary/5 shadow-2xl group w-full h-48 lg:h-auto lg:min-h-[250px] lg:flex-grow">
-                <img
+                <img loading="lazy" decoding="async"
                   src={heroBgDoodle}
                   alt="Process Flow"
                   className="w-full h-full object-cover grayscale opacity-40 group-hover:opacity-60 transition-opacity duration-700 absolute inset-0"

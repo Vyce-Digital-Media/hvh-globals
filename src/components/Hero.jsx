@@ -1,7 +1,7 @@
 import React from 'react';
 import { ArrowRight, Globe, ShieldCheck, Box } from 'lucide-react';
 import { motion } from 'framer-motion';
-import heroBg from '../assets/images/hero_bg.png';
+import heroBg from '../assets/images/hero_bg-7ZD4DqO1.png';
 
 const Hero = () => {
   return (
@@ -14,7 +14,7 @@ const Hero = () => {
           WebkitMaskImage: 'linear-gradient(to bottom, transparent 0%, black 15%, black 85%, transparent 100%)'
         }}
       >
-        <img
+        <img fetchpriority="high" loading="eager"
           src="/hero_bg_doodle.png"
           alt="Abstract Global Trade"
           className="w-full h-full object-cover select-none mix-blend-multiply"
@@ -97,7 +97,7 @@ const Hero = () => {
               }}
               className="md:col-span-2 relative h-[35vh] md:h-140 group rounded-[3rem] overflow-hidden border border-primary/5 shadow-2xl"
             >
-              <img
+              <img fetchpriority="high" loading="eager"
                 src={heroBg}
                 alt="Global Logistics"
                 className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"

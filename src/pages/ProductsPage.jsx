@@ -336,7 +336,7 @@ const ProductsPage = () => {
                                     images.length === 2 ? 'col-span-2' : ''
                                   }`}
                                 >
-                                  <img
+                                  <img loading="lazy" decoding="async"
                                     src={img}
                                     alt={`${group.baseName} ${idx + 1}`}
                                     className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-1000"
@@ -345,7 +345,7 @@ const ProductsPage = () => {
                               ))}
                             </div>
                           ) : (
-                            <img
+                            <img loading="lazy" decoding="async"
                               src={group.image}
                               alt={group.baseName}
                               className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-1000"

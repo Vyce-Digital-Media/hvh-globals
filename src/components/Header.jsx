@@ -90,7 +90,7 @@ const Header = () => {
       <div className="container mx-auto px-6 h-full flex items-center justify-between max-w-full lg:max-w-[90vw]">
         {/* Logo */}
         <Link to="/" className="flex items-center gap-4 group">
-          <img
+          <img fetchpriority="high" loading="eager"
             src={Logo}
             alt="HVH Global Logo"
             className="h-12 md:h-16 w-auto object-contain transition-transform group-hover:scale-105"

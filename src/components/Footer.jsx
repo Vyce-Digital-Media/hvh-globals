@@ -15,7 +15,7 @@ const Footer = () => {
             {/* Brand Info */}
             <div className="col-span-1 lg:col-span-1">
               <Link to="/" className="flex items-center gap-4 mb-6 group">
-                <img
+                <img loading="lazy" decoding="async"
                   src={Logo}
                   alt="HVH Global Logo"
                   className="h-16 w-auto object-contain transition-transform group-hover:scale-105"

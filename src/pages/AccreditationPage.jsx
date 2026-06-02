@@ -35,7 +35,7 @@ const AccreditationPage = () => {
               className="group relative flex flex-col items-center bg-white p-4 rounded-3xl border border-gray-200 shadow-sm hover:shadow-2xl hover:-translate-y-2 transition-all duration-300"
             >
               <div className="w-full aspect-[3/4] rounded-2xl overflow-hidden bg-gray-100 border border-gray-200 mb-6 relative">
-                <img 
+                <img loading="lazy" decoding="async" 
                   src={`/certi/${cert.file}.png`} 
                   alt={cert.name}
                   className="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-700"

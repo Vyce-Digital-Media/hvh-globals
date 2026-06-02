@@ -2,8 +2,8 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { Award, Target } from 'lucide-react';
 import AnimatedCounter from './AnimatedCounter';
-import aboutIndustrial from '../assets/images/about-industrial-sF6FumRI.png';
-import furnishingProduct from '../assets/images/about_furnishing_real.jpg';
+import aboutIndustrial from '../assets/images/about-industrial-sF6FumRI.webp';
+import furnishingProduct from '../assets/images/about_furnishing_real.webp';
 
 const About = () => {
   return (
@@ -20,7 +20,7 @@ const About = () => {
             className="lg:w-1/2 relative group flex flex-col"
           >
             <div className="relative flex-grow min-h-[350px] w-full rounded-[4rem] overflow-hidden border border-primary/5 shadow-2xl">
-              <img
+              <img loading="lazy" decoding="async"
                 src={aboutIndustrial}
                 alt="Industrial Mastery"
                 className="w-full h-full object-cover opacity-100 group-hover:grayscale-0 group-hover:opacity-100 group-hover:scale-105 transition-all duration-1000 absolute inset-0"

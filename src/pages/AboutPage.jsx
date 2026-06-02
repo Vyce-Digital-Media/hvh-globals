@@ -6,11 +6,11 @@ import {
   User
 } from 'lucide-react';
 import { Link } from 'react-router-dom';
-import aboutIndustrial from '../assets/images/about_industrial_real.png';
-import furnishingProduct from '../assets/images/about_furnishing_real.jpg';
-import industrialWorkNew from '../assets/images/industrial_work_new-BC10X50S.png';
-import premiumMarbleNew from '../assets/images/premium_marble_new-BPRKDHFx.png';
-import elegantFurnitureNew from '../assets/images/elegant_furniture_new-DvGesX4C.png';
+import aboutIndustrial from '../assets/images/about_industrial_real.webp';
+import furnishingProduct from '../assets/images/about_furnishing_real.webp';
+import industrialWorkNew from '../assets/images/industrial_work_new-BC10X50S.webp';
+import premiumMarbleNew from '../assets/images/premium_marble_new-BPRKDHFx.webp';
+import elegantFurnitureNew from '../assets/images/elegant_furniture_new-DvGesX4C.webp';
 import globalLogisticsNew from '../assets/images/global_logistics_new-MNN6latO.png';
 
 // Logo Imports
@@ -124,14 +124,14 @@ const AboutPage = () => {
                   whileHover={{ scale: 1.02 }}
                   className="w-full aspect-[4/3] rounded-2xl overflow-hidden shadow-xl border border-white/5 bg-black/20"
                 >
-                  <img src={industrialWorkNew} alt="Industrial Exports" className="w-full h-full object-cover" />
+                  <img loading="lazy" decoding="async" src={industrialWorkNew} alt="Industrial Exports" className="w-full h-full object-cover" />
                 </motion.div>
                 {/* Bottom Medium Image */}
                 <motion.div
                   whileHover={{ scale: 1.02 }}
                   className="w-full aspect-[3/4] rounded-2xl overflow-hidden shadow-xl border border-white/5 bg-black/20"
                 >
-                  <img src={globalLogisticsNew} alt="Logistics" className="w-full h-full object-cover" />
+                  <img loading="lazy" decoding="async" src={globalLogisticsNew} alt="Logistics" className="w-full h-full object-cover" />
                 </motion.div>
               </div>
 
@@ -142,14 +142,14 @@ const AboutPage = () => {
                   whileHover={{ scale: 1.02 }}
                   className="w-full aspect-[3/4] rounded-2xl overflow-hidden shadow-xl border border-white/5 bg-black/20"
                 >
-                  <img src={elegantFurnitureNew} alt="Luxury Decor" className="w-full h-full object-cover" />
+                  <img loading="lazy" decoding="async" src={elegantFurnitureNew} alt="Luxury Decor" className="w-full h-full object-cover" />
                 </motion.div>
                 {/* Bottom Small Image */}
                 <motion.div
                   whileHover={{ scale: 1.02 }}
                   className="w-full aspect-[4/3] rounded-2xl overflow-hidden shadow-xl border border-white/5 bg-black/20"
                 >
-                  <img src={premiumMarbleNew} alt="Premium Stones" className="w-full h-full object-cover" />
+                  <img loading="lazy" decoding="async" src={premiumMarbleNew} alt="Premium Stones" className="w-full h-full object-cover" />
                 </motion.div>
               </div>
             </div>
@@ -162,7 +162,7 @@ const AboutPage = () => {
       <section className="py-24 md:py-32 relative overflow-hidden">
         {/* Background Image */}
         <div className="absolute inset-0 z-0">
-          <img
+          <img loading="lazy" decoding="async"
             src={aboutIndustrial}
             alt="Industrial Background"
             className="w-full h-full object-cover"
@@ -200,7 +200,7 @@ const AboutPage = () => {
               className="bg-primary rounded-[2rem] md:rounded-[2.5rem] p-8 md:p-14 text-white relative overflow-hidden group w-full"
             >
               <div className="absolute inset-0 z-0 opacity-10 group-hover:opacity-15 transition-opacity duration-700">
-                <img
+                <img loading="lazy" decoding="async"
                   src={furnishingProduct}
                   alt="Furnishing Background"
                   className="w-full h-full object-cover grayscale mix-blend-overlay scale-110 group-hover:scale-100 transition-transform duration-1000"
@@ -245,7 +245,7 @@ const AboutPage = () => {
               {/* Mission Visual Element */}
               <div className="lg:w-1/2 w-full">
                 <div className="relative aspect-video lg:aspect-[16/10] w-full group rounded-[2.5rem] overflow-hidden border border-white/10 shadow-3xl">
-                  <img
+                  <img loading="lazy" decoding="async"
                     src={globalLogisticsNew}
                     alt="HVH Global Mission"
                     className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
@@ -350,7 +350,7 @@ const AboutPage = () => {
                 <div className="flex items-center gap-10 md:gap-20 shrink-0 px-8">
                   {trustedCompanies.map((company, index) => (
                     <div key={`set1-${index}`} className="flex items-center gap-3 md:gap-4 grayscale opacity-60 group-hover:opacity-100 group-hover:grayscale-0 transition-all duration-700">
-                      <img
+                      <img loading="lazy" decoding="async"
                         src={company.logo}
                         alt={company.name}
                         className="h-10 md:h-16 w-auto object-contain"
@@ -362,7 +362,7 @@ const AboutPage = () => {
                 <div className="flex items-center gap-10 md:gap-20 shrink-0 px-8">
                   {trustedCompanies.map((company, index) => (
                     <div key={`set2-${index}`} className="flex items-center gap-3 md:gap-4 grayscale opacity-60 group-hover:opacity-100 group-hover:grayscale-0 transition-all duration-700">
-                      <img
+                      <img loading="lazy" decoding="async"
                         src={company.logo}
                         alt={company.name}
                         className="h-10 md:h-16 w-auto object-contain"

@@ -58,7 +58,7 @@ const TradeFairPage = () => {
                 className="w-[85vw] md:w-[700px] h-full shrink-0 bg-white p-4 rounded-[2rem] md:rounded-[3rem] border border-gray-200 shadow-xl"
               >
                 <div className="w-full h-full rounded-2xl md:rounded-[2rem] overflow-hidden bg-gray-100 group relative cursor-pointer">
-                  <img
+                  <img loading="lazy" decoding="async"
                     src={imgSrc}
                     alt={`Trade Fair ${index + 1}`}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"

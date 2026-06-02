@@ -128,7 +128,7 @@ const ProductDetailPage = () => {
                         : 'border-transparent opacity-60 hover:opacity-100 hover:scale-105'
                     }`}
                   >
-                    <img src={img} alt={`${product.subCategory} ${idx + 1}`} className="w-full h-full object-cover" />
+                    <img loading="lazy" decoding="async" src={img} alt={`${product.subCategory} ${idx + 1}`} className="w-full h-full object-cover" />
                   </button>
                 ))}
               </div>
@@ -136,7 +136,7 @@ const ProductDetailPage = () => {
 
             {/* Main Image */}
             <div className="flex-1 bg-primary/5 rounded-[3rem] overflow-hidden flex items-center justify-center border border-accent/10 shadow-inner relative group h-full aspect-square lg:aspect-auto">
-              <img
+              <img loading="lazy" decoding="async"
                 src={mainImage}
                 alt={product.subCategory}
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"

@@ -691,7 +691,7 @@ const productsData = [
       "Long mechanical and electrical life",
       "Available in various ratings, colours, and configurations"
     ],
-    "image": "/ELECTRICAL/2. SWITCH ACC/1. PRIMIUM MODULAR SWITCHES/Picture1.png",
+    "image": "/ELECTRICAL/2. SWITCH ACC/1. PRIMIUM MODULAR SWITCHES/Picture1.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Applications: Homes, offices, hotels, hospitals, shopping malls, educational institutions, industrial facilities, infrastructure projects, and commercial buildings."
@@ -712,7 +712,7 @@ const productsData = [
       "Long mechanical and electrical life",
       "Available in various ratings, colours, and configurations"
     ],
-    "image": "/ELECTRICAL/2. SWITCH ACC/1. PRIMIUM MODULAR SWITCHES/Picture2.png",
+    "image": "/ELECTRICAL/2. SWITCH ACC/1. PRIMIUM MODULAR SWITCHES/Picture2.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Applications: Homes, offices, hotels, hospitals, shopping malls, educational institutions, industrial facilities, infrastructure projects, and commercial buildings."
@@ -733,7 +733,7 @@ const productsData = [
       "Long mechanical and electrical life",
       "Available in various ratings, colours, and configurations"
     ],
-    "image": "/ELECTRICAL/2. SWITCH ACC/1. PRIMIUM MODULAR SWITCHES/Picture8.jpg",
+    "image": "/ELECTRICAL/2. SWITCH ACC/1. PRIMIUM MODULAR SWITCHES/Picture8.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Applications: Homes, offices, hotels, hospitals, shopping malls, educational institutions, industrial facilities, infrastructure projects, and commercial buildings."
@@ -754,7 +754,7 @@ const productsData = [
       "Long mechanical and electrical life",
       "Available in various ratings, colours, and configurations"
     ],
-    "image": "/ELECTRICAL/2. SWITCH ACC/1. PRIMIUM MODULAR SWITCHES/Picture9.png",
+    "image": "/ELECTRICAL/2. SWITCH ACC/1. PRIMIUM MODULAR SWITCHES/Picture9.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Applications: Homes, offices, hotels, hospitals, shopping malls, educational institutions, industrial facilities, infrastructure projects, and commercial buildings."
@@ -1399,7 +1399,7 @@ const productsData = [
       "Available in multiple wattages, sizes, and colour temperatures",
       "Suitable for homes, offices, hotels, malls, hospitals, and commercial spaces"
     ],
-    "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/4260c677-2b90-42f8-81c1-658074adf362.png",
+    "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/4260c677-2b90-42f8-81c1-658074adf362.jpg",
     "priceRange": "Project Quote",
     "keyPoints": []
   },
@@ -1420,7 +1420,7 @@ const productsData = [
       "Available in multiple wattages, sizes, and colour temperatures",
       "Suitable for homes, offices, hotels, malls, hospitals, and commercial spaces"
     ],
-    "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/adujstable light.png",
+    "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/adujstable light.jpg",
     "priceRange": "Project Quote",
     "keyPoints": []
   },
@@ -1441,7 +1441,7 @@ const productsData = [
       "Available in multiple wattages, sizes, and colour temperatures",
       "Suitable for homes, offices, hotels, malls, hospitals, and commercial spaces"
     ],
-    "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/aluminium adjustable cob downlight.png",
+    "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/aluminium adjustable cob downlight.jpg",
     "priceRange": "Project Quote",
     "keyPoints": []
   },
@@ -1462,7 +1462,7 @@ const productsData = [
       "Available in multiple wattages, sizes, and colour temperatures",
       "Suitable for homes, offices, hotels, malls, hospitals, and commercial spaces"
     ],
-    "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/base light.png",
+    "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/base light.jpg",
     "priceRange": "Project Quote",
     "keyPoints": []
   },
@@ -1483,7 +1483,7 @@ const productsData = [
       "Available in multiple wattages, sizes, and colour temperatures",
       "Suitable for homes, offices, hotels, malls, hospitals, and commercial spaces"
     ],
-    "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/cob downlight.png",
+    "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/cob downlight.jpg",
     "priceRange": "Project Quote",
     "keyPoints": []
   },
@@ -1504,7 +1504,7 @@ const productsData = [
       "Available in multiple wattages, sizes, and colour temperatures",
       "Suitable for homes, offices, hotels, malls, hospitals, and commercial spaces"
     ],
-    "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/deep downlight.png",
+    "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/deep downlight.jpg",
     "priceRange": "Project Quote",
     "keyPoints": []
   },
@@ -1525,7 +1525,7 @@ const productsData = [
       "Available in multiple wattages, sizes, and colour temperatures",
       "Suitable for homes, offices, hotels, malls, hospitals, and commercial spaces"
     ],
-    "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/downlight1.png",
+    "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/downlight1.jpg",
     "priceRange": "Project Quote",
     "keyPoints": []
   },
@@ -1546,7 +1546,7 @@ const productsData = [
       "Available in multiple wattages, sizes, and colour temperatures",
       "Suitable for homes, offices, hotels, malls, hospitals, and commercial spaces"
     ],
-    "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/junction light.png",
+    "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/junction light.jpg",
     "priceRange": "Project Quote",
     "keyPoints": []
   },
@@ -1567,7 +1567,7 @@ const productsData = [
       "Available in multiple wattages, sizes, and colour temperatures",
       "Suitable for homes, offices, hotels, malls, hospitals, and commercial spaces"
     ],
-    "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/rimless surface.png",
+    "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/rimless surface.jpg",
     "priceRange": "Project Quote",
     "keyPoints": []
   },
@@ -1588,7 +1588,7 @@ const productsData = [
       "Available in multiple wattages, sizes, and colour temperatures",
       "Suitable for homes, offices, hotels, malls, hospitals, and commercial spaces"
     ],
-    "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/spot light.png",
+    "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/spot light.jpg",
     "priceRange": "Project Quote",
     "keyPoints": []
   },
@@ -1609,7 +1609,7 @@ const productsData = [
       "Available in multiple wattages, sizes, and colour temperatures",
       "Suitable for homes, offices, hotels, malls, hospitals, and commercial spaces"
     ],
-    "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/step panel.png",
+    "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/step panel.jpg",
     "priceRange": "Project Quote",
     "keyPoints": []
   },
@@ -2963,7 +2963,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME_DECOR/wall_arts/wall_arts-1.png",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-1.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -2983,7 +2983,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME_DECOR/wall_arts/wall_arts-2.jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-2.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3003,7 +3003,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME_DECOR/wall_arts/wall_arts-3.jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-3.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3023,7 +3023,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME_DECOR/wall_arts/wall_arts-4.jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-4.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3043,7 +3043,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME_DECOR/wall_arts/wall_arts-5.jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-5.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3063,7 +3063,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME_DECOR/wall_arts/wall_arts-6.jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-6.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3083,7 +3083,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME_DECOR/wall_arts/wall_arts-7.jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-7.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3103,7 +3103,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME_DECOR/wall_arts/wall_arts-8.jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-8.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3123,7 +3123,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME_DECOR/wall_arts/wall_arts-9.jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-9.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3143,7 +3143,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME_DECOR/wall_arts/wall_arts-10.jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-10.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3163,7 +3163,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME_DECOR/wall_arts/wall_arts-11.jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-11.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3183,7 +3183,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME_DECOR/wall_arts/wall_arts-12.jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-12.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3203,7 +3203,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME_DECOR/wall_arts/wall_arts-13.jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-13.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3223,7 +3223,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME_DECOR/wall_arts/wall_arts-14.jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-14.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3243,7 +3243,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME_DECOR/wall_arts/wall_arts-15.jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-15.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3263,7 +3263,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME_DECOR/wall_arts/wall_arts-16.jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-16.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
@@ -3283,7 +3283,7 @@ const productsData = [
       "Easy to maintain",
       "Available in Flame Retardant"
     ],
-    "image": "/HOME_DECOR/wall_arts/wall_arts-17.jpeg",
+    "image": "/HOME_DECOR/wall_arts/wall_arts-17.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
       "Customizable themes, sizes, and finishes",
