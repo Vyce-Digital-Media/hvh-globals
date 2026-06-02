@@ -315,7 +315,7 @@ const ProductsPage = () => {
                 {groupedProducts.map((group) => {
                   const directId = group.variants[0].id;
                   const images = group.variants.map(v => v.image).slice(0, 4);
-                  const isMulti = images.length > 1;
+                  const isMulti = false;
                   return (
                     <motion.div
                       key={group.id}

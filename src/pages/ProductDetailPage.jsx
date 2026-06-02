@@ -50,14 +50,34 @@ const ProductDetailPage = () => {
     [allProducts]
   );
 
+  const [delay, setDelay] = useState(3000);
+
   // Automatic slideshow
   useEffect(() => {
     if (allImages.length <= 1) return;
-    const interval = setInterval(() => {
+    const timer = setTimeout(() => {
       setSelectedImageIdx((prev) => (prev + 1) % allImages.length);
-    }, 3000);
-    return () => clearInterval(interval);
-  }, [allImages.length]);
+      setDelay(3000);
+    }, delay);
+    return () => clearTimeout(timer);
+  }, [allImages.length, selectedImageIdx, delay]);
+
+  const handleManualSelect = (idx) => {
+    setSelectedImageIdx(idx);
+    setDelay(5000);
+  };
+
+  const handlePrev = (e) => {
+    e.preventDefault();
+    setSelectedImageIdx(prev => (prev === 0 ? allImages.length - 1 : prev - 1));
+    setDelay(5000);
+  };
+
+  const handleNext = (e) => {
+    e.preventDefault();
+    setSelectedImageIdx(prev => (prev === allImages.length - 1 ? 0 : prev + 1));
+    setDelay(5000);
+  };
 
   if (!productFromId) {
     return (
@@ -101,7 +121,7 @@ const ProductDetailPage = () => {
                 {allImages.map((img, idx) => (
                   <button
                     key={idx}
-                    onClick={() => setSelectedImageIdx(idx)}
+                    onClick={() => handleManualSelect(idx)}
                     className={`relative w-20 h-20 rounded-2xl overflow-hidden border-2 transition-all shrink-0 ${
                       selectedImageIdx === idx
                         ? 'border-accent scale-105 z-10 shadow-lg'
@@ -126,14 +146,14 @@ const ProductDetailPage = () => {
               {allImages.length > 1 && (
                 <>
                   <button
-                    onClick={(e) => { e.preventDefault(); setSelectedImageIdx(prev => (prev === 0 ? allImages.length - 1 : prev - 1)); }}
+                    onClick={handlePrev}
                     className="absolute left-4 top-1/2 -translate-y-1/2 w-12 h-12 rounded-full bg-white/80 backdrop-blur-sm shadow-lg flex items-center justify-center text-primary opacity-0 group-hover:opacity-100 transition-all hover:bg-accent hover:text-white hover:scale-110 z-10"
                     aria-label="Previous image"
                   >
                     <ChevronLeft size={24} strokeWidth={3} />
                   </button>
                   <button
-                    onClick={(e) => { e.preventDefault(); setSelectedImageIdx(prev => (prev === allImages.length - 1 ? 0 : prev + 1)); }}
+                    onClick={handleNext}
                     className="absolute right-4 top-1/2 -translate-y-1/2 w-12 h-12 rounded-full bg-white/80 backdrop-blur-sm shadow-lg flex items-center justify-center text-primary opacity-0 group-hover:opacity-100 transition-all hover:bg-accent hover:text-white hover:scale-110 z-10"
                     aria-label="Next image"
                   >
